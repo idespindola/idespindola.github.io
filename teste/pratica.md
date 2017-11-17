@@ -3,12 +3,13 @@
 Blog criado a partir do grupo de [whatsapp](https://chat.whatsapp.com/CY77JEvhrqRF1V8mlbgRZh).
 
 ----------
-Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
-
 ![](../sefisc/figuras/certificado-digital.png)
+Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 
 ----------
 ![](../sefisc/figuras/treinamento-sefisc.png)
+Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
+
 
 ----------
 ## **BANCO DE QUESTÕES**
