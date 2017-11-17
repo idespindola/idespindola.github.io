@@ -1,6 +1,6 @@
 # **SEFISC NA PRÁTICA**
 
-Blog criado a partir do grupo de whatsapp
+Blog criado a partir do grupo de whatsapp.
 
 ----------
 ![](figuras/certificado-digital.png)
