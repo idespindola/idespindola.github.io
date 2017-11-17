@@ -3,6 +3,8 @@
 Blog criado a partir do grupo de [whatsapp](https://chat.whatsapp.com/CY77JEvhrqRF1V8mlbgRZh).
 
 ----------
+Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
+
 ![](figuras/certificado-digital.png)
 
 ----------
