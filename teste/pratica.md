@@ -9,4 +9,8 @@ Blog criado a partir do grupo de whatsapp.
 ![](../sefisc/figuras/treinamento-sefisc.png)
 
 ----------
-[manual](../sefisc/arquivos/intro-sefisc-v1.0.1.pdf)
+## **MANUAIS DO SEFISC** [aqui](../sefisc/arquivos/manuais)
+
+----------
+## **BANCO DE QUESTÕES**
+
