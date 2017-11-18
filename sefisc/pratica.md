@@ -14,9 +14,12 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 
 ### **Exclusão de Ofício**
 
-**1 -** Não localizei o dispositivo na [LC 123/2006](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp123.htm) que seja correspondente ao contido no Art 75, §7º, e Art. 76, inciso III, alínea a, da [Resolução CGSN 94/2011](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=36833&visao=anotado). Quais dispositivos da Lei autorizam a Resolução firmar tal regramento?
+**1 -** Não localizei o dispositivo na [LC 123/2006](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp123.htm) que seja correspondente ao contido no Art. 75, §7º, e Art. 76, inciso III, alínea a, da [Resolução CGSN 94/2011](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=36833&visao=anotado). Quais dispositivos da Lei autorizam a Resolução firmar tal regramento?
 
-> A autorização para que o CGSN regulamente as questões do SN, incluído aí, a Exclusão, vide o Art. 2°, inciso I, §6º, da [LC 123/2006](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp123.htm). *Lembre-se tudo que for do SN, se a LC 123/2006 não mencionou, vale o que está regulamentado pelas Resoluções*. (Ritsutada Takada)
+> A autorização para que o CGSN regulamente as questões do SN, incluído aí, a Exclusão, vide o Art. 2°, inciso I e §6º, da LC 123/2006. *Lembre-se tudo que for do SN, se a LC 123/2006 não mencionou, vale o que está regulamentado pelas Resoluções*. (Ritsutada Takada)
+
+----------
+## **LEGISLAÇÃO**
 
 ----------
 ## **MANUAIS DO SEFISC**
@@ -28,3 +31,7 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 [MANUAL DO AINF](../sefisc/arquivos/ainf-sefic-v3.1)
 
 [MANUAL DO CONTENCIOSO DO AINF](../sefisc/arquivos/contencioso-sefisc-v3.0.pdf)
+
+----------
+## **NOTAS TÉCNICAS - CNM**
+
