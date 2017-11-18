@@ -12,8 +12,6 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 ----------
 ## **BANCO DE QUESTÕES**
 
-[toc]
-
 ### **Exclusão de Ofício**
 
 **1 -** Não localizei o dispositivo na [LC 123/2006](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp123.htm) que seja correspondente ao contido no Art 75, §7º, e Art. 76, inciso III, alínea a, da [Resolução CGSN 94/2011](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=36833&visao=anotado). Quais dispositivos da Lei autorizam a Resolução firmar tal regramento?
