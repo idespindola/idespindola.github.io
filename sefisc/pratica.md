@@ -21,6 +21,20 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 ----------
 ## **LEGISLAÇÃO**
 
+### Leis
+
+[Constituição Federal](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+
+[Lei 5.172/1966 - CTN](http://www.planalto.gov.br/ccivil_03/leis/L5172.htm)
+
+[Lei Complementar 116/2003](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp116.htm)
+
+[Lei Complementar 123/2006](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp123.htm)
+
+### Resoluções CGSN
+
+[Resolução CGSN 94/2011](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=36833&visao=anotado)
+
 ----------
 ## **MANUAIS DO SEFISC**
 
@@ -35,3 +49,8 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 ----------
 ## **NOTAS TÉCNICAS - CNM**
 
+[Certificado Digital e a Importância para os Municípios.](../sefisc/arquivos/nt-01-2017-certificado-digital.pdf)
+
+[SEFISC - O que os municípios precisam saber?](../sefisc/arquivos/nt-04-2016-sefisc.pdf)
+
+[Simples Nacional: Convênio com a Procuradoria Geral da Fazenda Nacional (PGFN)](../sefisc/arquivos/nt-01-2016-convenio.pdf)
