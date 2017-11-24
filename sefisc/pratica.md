@@ -25,7 +25,7 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 >
 > Exemplo de preenchimento do contencioso que deve ser preenchido pelo perfil de gestor:
 >
-> ![](../sefisc/figuras/contencioso.png)
+>> ![](../sefisc/figuras/contencioso.png)
 
 
 ### **Exclusão de Ofício**
