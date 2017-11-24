@@ -12,6 +12,20 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 ----------
 ## **BANCO DE QUESTÕES**
 
+### **Cadastro de Prazos de Contestação**
+
+**1 -** No momento de geração do AINF apareceu a seguinte mensagem: **"Favor contactar o gestor das tabelas de domínio para realizar o devido cadastramento"**.
+
+> Observar o seguinte:
+
+>a) a gestora das tabelas de domínio é a RFB(vide Manual de Introdução ao SEFISC, pág. 6);
+
+>b) enviar detalhes do ocorrido (inclusive print da tela da mensagem de erro) para o e-mail simples08.sefisc@receita.fazenda.gov.br
+
+> Exemplo de preenchimento:
+
+> ![](../sefisc/figuras/contencioso.png)
+
 ### **Exclusão de Ofício**
 
 **1 -** Não localizei o dispositivo na [LC 123/2006](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp123.htm) que seja correspondente ao contido no Art. 75, §7º, e Art. 76, inciso III, alínea a, da [Resolução CGSN 94/2011](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=36833&visao=anotado). Quais dispositivos da Lei autorizam a Resolução firmar tais regramentos?
