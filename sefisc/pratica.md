@@ -20,7 +20,7 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 > Observar o seguinte:
 >
 >> a) a gestora das tabelas de domínio é a RFB (vide [Manual de Introdução ao SEFISC](../sefisc/arquivos/intro-sefisc-v1.0.1.pdf), pág. 6);
->
+>>
 >> b) enviar detalhes do ocorrido (inclusive print da tela da mensagem de erro) para o e-mail: simples08.sefisc@receita.fazenda.gov.br
 >
 > Exemplo de preenchimento do contencioso que deve ser preenchido pelo perfil de gestor:
