@@ -23,7 +23,7 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 >>
 >> b) enviar detalhes do ocorrido (inclusive print da tela da mensagem de erro) para o e-mail: simples08.sefisc@receita.fazenda.gov.br
 >
-> Exemplo de preenchimento do contencioso que deve ser preenchido pelo perfil de gestor:
+> Exemplo de preenchimento:
 >
 >> ![](../sefisc/figuras/contencioso.png)
 
