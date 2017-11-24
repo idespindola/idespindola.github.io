@@ -16,17 +16,17 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 
 **1 -** No momento de geração do AINF apareceu a seguinte mensagem: **"Favor contactar o gestor das tabelas de domínio para realizar o devido cadastramento"**.
 
->
-Observar o seguinte:
 
-a) a gestora das tabelas de domínio é a RFB (vide [Manual de Introdução ao SEFISC](#MANUAIS DO SEFISC), pág. 6);
+> Observar o seguinte:
 
-b) enviar detalhes do ocorrido (inclusive print da tela da mensagem de erro) para o e-mail: simples08.sefisc@receita.fazenda.gov.br.
+> a) a gestora das tabelas de domínio é a RFB (vide [Manual de Introdução ao SEFISC](##MANUAIS DO SEFISC), pág. 6);
 
-Exemplo de preenchimento:
+> b) enviar detalhes do ocorrido (inclusive print da tela da mensagem de erro) para o e-mail: simples08.sefisc@receita.fazenda.gov.br.
 
-![](../sefisc/figuras/contencioso.png)
->
+> Exemplo de preenchimento:
+
+> ![](../sefisc/figuras/contencioso.png)
+
 
 ### **Exclusão de Ofício**
 
