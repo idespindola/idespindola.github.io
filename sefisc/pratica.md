@@ -51,27 +51,27 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 [Resolução CGSN 94/2011](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=36833&visao=anotado)
 
 > [Anexo XIV - Sumário](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=38655)
-
+>
 > [Anexo I - Alíquotas e Partilha do Simples Nacional – Comércio](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=45101)
-
+>
 > [Anexo II -Alíquotas e Partilha do Simples Nacional – Indústria](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=45102)
-
+>
 > [Anexo III - Alíquotas e Partilha do Simples Nacional - Receitas de locação de bens móveis e de prestação de serviços descritos no inciso III do § 1º do art. 25-A, e serviços descritos no inciso V quando o fator “r” for igual ou superior a 28%](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=45103)
-
+>
 > [Anexo IV - Alíquotas e Partilha do Simples Nacional - Receitas decorrentes da prestação de serviços relacionados no inciso IV do § 1º do art. 25-A](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=45104)
-
+>
 > [Anexo V - Alíquotas e Partilha do Simples Nacional - Receitas de prestação de serviços descritos no inciso V do § 1º do art. 25-A, quando o fator “r” for inferior a 28%](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=45105)
-
+>
 > [Anexo VI - Códigos previstos na CNAE impeditivos ao Simples Nacional](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=45106)
-
+>
 > [Anexo VII - Códigos previstos na CNAE que abrangem concomitantemente atividade impeditiva e permitida ao Simples Nacional](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=46393)
-
+>
 > [Anexo X - Modelo do Comprovante de Pagamento](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=40081)
-
-> [Anexo XI - Registro de Valores a Receber](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=40156)
-
-> [Anexo XII - Relatório Mensal de Receitas Brutas](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=39899)
-
+>
+> [Anexo XI - Registro de Valores a Receber no Regime de Caixa](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=40156)
+>
+> [Anexo XII - Relatório Mensal de Receitas Brutas - MEI](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=39899)
+>
 > [Anexo XIII - Ocupações Permitidas ao MEI](http://normas.receita.fazenda.gov.br/sijut2consulta/anexoOutros.action?idArquivoBinario=46395)
 
 ----------
