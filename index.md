@@ -2,4 +2,6 @@
 
 <p>Olá, meu nome é Igor Espindola e sou Fiscal de Tributos da Prefeitura Municipal de Miracema-RJ, Matemático e Cientista de Dados.</p>
 
+**[Estilos de Vida](vida\estilos)**: padrões de consumo, rotinas, hábitos ou uma forma de vida adaptada ao dia a dia. 
+
 **Banco de Questões [SEFISC NA PRÁTICA](sefisc\pratica).**

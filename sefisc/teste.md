@@ -74,30 +74,46 @@ Contribua com a pesquisa [aqui](https://goo.gl/forms/xusRDZXFe5dYaQFN2).
 
 ### **Desenquadramento do MEI**
 
-Art. 18-A, § 6º, da Lei Complementar nº 123/2006.
+Art. 18-A, § 8º, da Lei Complementar nº 123/2006.
 
-§ 6º  O desenquadramento da sistemática de que trata o caput deste artigo será realizado de ofício ou mediante comunicação do MEI.
+> § 8º  O desenquadramento de ofício dar-se-á quando verificada a falta de comunicação de que trata o § 7º deste artigo.
 
-§ 7º  O desenquadramento mediante comunicação do MEI à Secretaria da Receita Federal do Brasil - RFB dar-se-á:
+>>§ 7º  O desenquadramento mediante comunicação do MEI à Secretaria da Receita Federal do Brasil - RFB dar-se-á:
+>>
+>> I - por opção, que deverá ser efetuada no início do ano-calendário, na forma disciplinada pelo Comitê Gestor, produzindo efeitos a partir de 1º de janeiro do ano-calendário da comunicação;
+>>
+>> II - obrigatoriamente, quando o MEI incorrer em alguma das situações previstas no § 4º deste artigo, devendo a comunicação ser efetuada até o último dia útil do mês subseqüente àquele em que ocorrida a situação de vedação, produzindo efeitos a partir do mês subseqüente ao da ocorrência da situação impeditiva;
+>>>
+>>> § 4º  Não poderá optar pela sistemática de recolhimento prevista no caput deste artigo o MEI:  
+>>>
+>>> I - cuja atividade seja tributada na forma dos Anexos V ou VI desta Lei Complementar, salvo autorização relativa a exercício de atividade isolada na forma regulamentada pelo CGSN;
+>>>
+>>> II - que possua mais de um estabelecimento;
+>>>
+>>> III - que participe de outra empresa como titular, sócio ou administrador; ou
+>>> 
+>>> IV - que contrate mais de um empregado.
+>>>
+>> III - obrigatoriamente, quando o MEI exceder, no ano-calendário, o limite de receita bruta previsto no § 1º deste artigo, devendo a comunicação ser efetuada até o último dia útil do mês subseqüente àquele em que ocorrido o excesso, produzindo efeitos:
+>>>
+>>> § 1º  Para os efeitos desta Lei Complementar, considera-se MEI o empresário individual que se enquadre na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, ou o empreendedor que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural, que tenha auferido receita bruta, no ano-calendário anterior, de até R$ 81.000,00 (oitenta e um mil reais), que seja optante pelo Simples Nacional e que não esteja impedido de optar pela sistemática prevista neste artigo.
+>>>
+>> a) a partir de 1º de janeiro do ano-calendário subseqüente ao da ocorrência do excesso, na hipótese de não ter ultrapassado o referido limite em mais de 20% (vinte por cento);
+>>
+>> b) retroativamente a 1º de janeiro do ano-calendário da ocorrência do excesso, na hipótese de ter ultrapassado o referido limite em mais de 20% (vinte por cento);
+>>
+>> IV - obrigatoriamente, quando o MEI exceder o limite de receita bruta previsto no § 2º deste artigo, devendo a comunicação ser efetuada até o último dia útil do mês subseqüente àquele em que ocorrido o excesso, produzindo efeitos:
+>>>
+>>> § 2º  No caso de início de atividades, o limite de que trata o § 1o será de R$ 6.750,00 (seis mil, setecentos e cinquenta reais) multiplicados pelo número de meses compreendido entre o início da atividade e o final do respectivo ano-calendário, consideradas as frações de meses como um mês inteiro. 
+>>>
+>> a) a partir de 1º de janeiro do ano-calendário subseqüente ao da ocorrência do excesso, na hipótese de não ter ultrapassado o referido limite em mais de 20% (vinte por cento);
+>>
+>> b) retroativamente ao início de atividade, na hipótese de ter ultrapassado o referido limite em mais de 20% (vinte por cento).
 
-I - por opção, que deverá ser efetuada no início do ano-calendário, na forma disciplinada pelo Comitê Gestor, produzindo efeitos a partir de 1º de janeiro do ano-calendário da comunicação;
+**§ 9º  O Empresário Individual desenquadrado da sistemática de recolhimento prevista no caput deste artigo passará a recolher os tributos devidos pela regra geral do Simples Nacional a partir da data de início dos efeitos do desenquadramento, ressalvado o disposto no §10 deste artigo.**
 
-II - obrigatoriamente, quando o MEI incorrer em alguma das situações previstas no § 4º deste artigo, devendo a comunicação ser efetuada até o último dia útil do mês subseqüente àquele em que ocorrida a situação de vedação, produzindo efeitos a partir do mês subseqüente ao da ocorrência da situação impeditiva;
+**§ 10.  Nas hipóteses previstas nas alíneas a dos incisos III e IV do § 7º deste artigo, o MEI deverá recolher a diferença, sem acréscimos, em parcela única, juntamente com a da apuração do mês de janeiro do ano-calendário subseqüente ao do excesso, na forma a ser estabelecida em ato do Comitê Gestor.**
 
-III - obrigatoriamente, quando o MEI exceder, no ano-calendário, o limite de receita bruta previsto no § 1º deste artigo, devendo a comunicação ser efetuada até o último dia útil do mês subseqüente àquele em que ocorrido o excesso, produzindo efeitos:
+**3 -** Como deve ser lançado os excessos apurados, na hipótese de não ter ultrapassado o limite em mais de 20% (vinte por cento)?
 
-a) a partir de 1º de janeiro do ano-calendário subseqüente ao da ocorrência do excesso, na hipótese de não ter ultrapassado o referido limite em mais de 20% (vinte por cento);
-
-b) retroativamente a 1º de janeiro do ano-calendário da ocorrência do excesso, na hipótese de ter ultrapassado o referido limite em mais de 20% (vinte por cento);
-
-IV - obrigatoriamente, quando o MEI exceder o limite de receita bruta previsto no § 2º deste artigo, devendo a comunicação ser efetuada até o último dia útil do mês subseqüente àquele em que ocorrido o excesso, produzindo efeitos:
-
-a) a partir de 1º de janeiro do ano-calendário subseqüente ao da ocorrência do excesso, na hipótese de não ter ultrapassado o referido limite em mais de 20% (vinte por cento);
-
-b) retroativamente ao início de atividade, na hipótese de ter ultrapassado o referido limite em mais de 20% (vinte por cento).
-
-§ 8º  O desenquadramento de ofício dar-se-á quando verificada a falta de comunicação de que trata o § 7º deste artigo.
-
-§ 9º  O Empresário Individual desenquadrado da sistemática de recolhimento prevista no caput deste artigo passará a recolher os tributos devidos pela regra geral do Simples Nacional a partir da data de início dos efeitos do desenquadramento, ressalvado o disposto no § 10 deste artigo.
-
-§ 10.  Nas hipóteses previstas nas alíneas a dos incisos III e IV do § 7º deste artigo, o MEI deverá recolher a diferença, sem acréscimos, em parcela única, juntamente com a da apuração do mês de janeiro do ano-calendário subseqüente ao do excesso, na forma a ser estabelecida em ato do Comitê Gestor.
+> O lançamento da diferença deverá ser realizado no Sistema Próprio do Ente.
