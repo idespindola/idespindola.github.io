@@ -4,6 +4,6 @@
 
 **[Estilos de Vida](vida\estilos)**: padrões de consumo, rotinas, hábitos ou uma forma de vida adaptada ao dia a dia.
 
-**[Legislação Tributária Municipal](legislacao\legislacao)**: Município de Miracema-RJ  
+**[Legislação Tributária Municipal](legislacao\LegislacaoTributaria.html)**: Município de Miracema-RJ  
 
 **Banco de Questões [SEFISC NA PRÁTICA](sefisc\pratica).**
