@@ -1,9 +1,3 @@
-<h1 style="text-align:center;"><b>Blog do Igor Espindola</b></h1>
+Fornecer soluções orientadas a dados e resolução de problemas de negócios desafiadores.
 
-<p>Olá, meu nome é Igor Espindola e sou Fiscal de Tributos da Prefeitura Municipal de Miracema-RJ, Matemático e Cientista de Dados.</p>
-
-**[Estilos de Vida](vida\estilos)**: padrões de consumo, rotinas, hábitos ou uma forma de vida adaptada ao dia a dia.
-
-**[Legislação Tributária Municipal](legislacao\LegislacaoTributaria.html)**: Município de Miracema-RJ  
-
-**Banco de Questões [SEFISC NA PRÁTICA](sefisc\pratica).**
+Cientista de dados de negócios com capacidade demonstrada para fornecer informações valiosas através de análise de dados e métodos avançados baseados em dados.
