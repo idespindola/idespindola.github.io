@@ -1,0 +1,2531 @@
+{
+    "01.01": {
+        "descricao": "An\u00e1lise e desenvolvimento de sistemas.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6201500"
+        ]
+    },
+    "01.02": {
+        "descricao": "Programa\u00e7\u00e3o.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6201500"
+        ]
+    },
+    "01.03": {
+        "descricao": "Processamento, armazenamento ou hospedagem de dados, textos, imagens, v\u00eddeos, p\u00e1ginas eletr\u00f4nicas, aplicativos e sistemas de informa\u00e7\u00e3o, entre outros formatos, e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "1830003",
+            "6190601",
+            "6190602",
+            "6209100",
+            "6311900",
+            "6319400",
+            "6399200"
+        ]
+    },
+    "01.04": {
+        "descricao": "Elabora\u00e7\u00e3o de programas de computadores, inclusive de jogos eletr\u00f4nicos, independentemente da arquitetura construtiva da m\u00e1quina em que o programa ser\u00e1 executado, incluindo tablets, smartphones e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6201500",
+            "6202300",
+            "6203100"
+        ]
+    },
+    "01.05": {
+        "descricao": "Licenciamento ou cess\u00e3o de direito de uso de programas de computa\u00e7\u00e3o.",
+        "aliquota": "3,00",
+        "servicos": [
+            "5510801",
+            "6190601",
+            "6201500",
+            "6202300"
+        ]
+    },
+    "01.06": {
+        "descricao": "Assessoria e consultoria em inform\u00e1tica.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6204000",
+            "9511800"
+        ]
+    },
+    "01.07": {
+        "descricao": "Suporte t\u00e9cnico em inform\u00e1tica, inclusive instala\u00e7\u00e3o, configura\u00e7\u00e3o e manuten\u00e7\u00e3o de programas de computa\u00e7\u00e3o e bancos de dados.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6190601",
+            "6201500",
+            "6209100",
+            "6311900",
+            "9511800",
+            "9521500",
+            "9529199"
+        ]
+    },
+    "01.08": {
+        "descricao": "Planejamento, confec\u00e7\u00e3o, manuten\u00e7\u00e3o e atualiza\u00e7\u00e3o de p\u00e1ginas eletr\u00f4nicas.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6190602",
+            "6201500",
+            "6319400",
+            "9521500"
+        ]
+    },
+    "01.09": {
+        "descricao": "Disponibiliza\u00e7\u00e3o, sem cess\u00e3o definitiva, de conte\u00fados de \u00e1udio, v\u00eddeo, imagem e texto por meio da internet, respeitada a imunidade de livros, jornais e peri\u00f3dicos (exceto a distribui\u00e7\u00e3o de conte\u00fados pelas prestadoras de Servi\u00e7o de Acesso Condicionado, de que trata a Lei no 12.485, de 12 de setembro de 2011, sujeita ao ICMS).",
+        "aliquota": "3,00",
+        "servicos": []
+    },
+    "02.01": {
+        "descricao": "Servi\u00e7os de pesquisas e desenvolvimento de qualquer natureza.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7210000",
+            "7220700",
+            "8299799"
+        ]
+    },
+    "03.02": {
+        "descricao": "Cess\u00e3o de direito de uso de marcas e de sinais de propaganda.",
+        "aliquota": "5,00",
+        "servicos": [
+            "7312200",
+            "7319002",
+            "7319099",
+            "7740300"
+        ]
+    },
+    "03.03": {
+        "descricao": "Explora\u00e7\u00e3o de sal\u00f5es de festas, centro de conven\u00e7\u00f5es, escrit\u00f3rios virtuais, stands, quadras esportivas, est\u00e1dios, gin\u00e1sios, audit\u00f3rios, casas de espet\u00e1culos, parques de divers\u00f5es, canchas e cong\u00eaneres, para realiza\u00e7\u00e3o de eventos ou neg\u00f3cios de qualquer natureza.",
+        "aliquota": "5,00",
+        "servicos": [
+            "5510801",
+            "8211300",
+            "8230002",
+            "8299707",
+            "8299799",
+            "9003500",
+            "9311500"
+        ]
+    },
+    "03.04": {
+        "descricao": "Loca\u00e7\u00e3o, subloca\u00e7\u00e3o, arrendamento, direito de passagem ou permiss\u00e3o de uso, compartilhado ou n\u00e3o, de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza.",
+        "aliquota": "5,00",
+        "servicos": [
+            "3514000",
+            "3520402",
+            "4321500",
+            "4911600",
+            "5221400",
+            "9001999"
+        ]
+    },
+    "03.05": {
+        "descricao": "Cess\u00e3o de andaimes, palcos, coberturas e outras estruturas de uso tempor\u00e1rio.",
+        "aliquota": "5,00",
+        "servicos": [
+            "4399102",
+            "7729202",
+            "7732202",
+            "7739003"
+        ]
+    },
+    "04.01": {
+        "descricao": "Medicina e biomedicina.",
+        "aliquota": "4,00",
+        "servicos": [
+            "7500100",
+            "8610101",
+            "8610102",
+            "8630501",
+            "8630502",
+            "8630503",
+            "8630599",
+            "8640214",
+            "8650003",
+            "8730199"
+        ]
+    },
+    "04.02": {
+        "descricao": "An\u00e1lises cl\u00ednicas, patologia, eletricidade m\u00e9dica, radioterapia, quimioterapia, ultra-sonografia, resson\u00e2ncia magn\u00e9tica, radiologia, tomografia e cong\u00eaneres.",
+        "aliquota": "4,00",
+        "servicos": [
+            "3250706",
+            "8610101",
+            "8610102",
+            "8621601",
+            "8630502",
+            "8630503",
+            "8640201",
+            "8640202",
+            "8640203",
+            "8640204",
+            "8640205",
+            "8640206",
+            "8640207",
+            "8640208",
+            "8640209",
+            "8640210",
+            "8640211",
+            "8640212",
+            "8640213",
+            "8640214"
+        ]
+    },
+    "04.03": {
+        "descricao": "Hospitais, cl\u00ednicas, laborat\u00f3rios, sanat\u00f3rios, manic\u00f4mios, casas de sa\u00fade, prontos-socorros, ambulat\u00f3rios e cong\u00eaneres.",
+        "aliquota": "4,00",
+        "servicos": [
+            "8610101",
+            "8610102",
+            "8630501",
+            "8630502",
+            "8630503",
+            "8630506",
+            "8630599",
+            "8640201",
+            "8640202",
+            "8640203",
+            "8640213",
+            "8650003",
+            "8650004",
+            "8650006",
+            "8711501",
+            "8711503",
+            "8711504",
+            "8720499"
+        ]
+    },
+    "04.04": {
+        "descricao": "Instrumenta\u00e7\u00e3o cir\u00fargica.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7112000",
+            "8129000",
+            "8630501",
+            "8650099"
+        ]
+    },
+    "04.05": {
+        "descricao": "Acupuntura.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8650004",
+            "8650099",
+            "8690901",
+            "8690903",
+            "8690999"
+        ]
+    },
+    "04.06": {
+        "descricao": "Enfermagem, inclusive servi\u00e7os auxiliares.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8129000",
+            "8622400",
+            "8650001",
+            "8650004",
+            "8650099",
+            "8690999"
+        ]
+    },
+    "04.07": {
+        "descricao": "Servi\u00e7os farmac\u00eauticos.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4618401",
+            "4771702",
+            "4771703",
+            "8640201",
+            "8640202",
+            "8650099",
+            "8690999",
+            "8711505"
+        ]
+    },
+    "04.08": {
+        "descricao": "Terapia ocupacional, fisioterapia e fonoaudiologia.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8610102",
+            "8630502",
+            "8630503",
+            "8640299",
+            "8650003",
+            "8650004",
+            "8650005",
+            "8650006",
+            "8650099",
+            "8690901"
+        ]
+    },
+    "04.09": {
+        "descricao": "Terapias de qualquer esp\u00e9cie destinadas ao tratamento f\u00edsico, org\u00e2nico e mental.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8640212",
+            "8640213",
+            "8640299",
+            "8650003",
+            "8650004",
+            "8650005",
+            "8650007",
+            "8650099",
+            "8690901",
+            "8690999",
+            "8711503",
+            "8711504",
+            "8720499",
+            "9609299"
+        ]
+    },
+    "04.10": {
+        "descricao": "Nutri\u00e7\u00e3o.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8650002",
+            "8650007",
+            "8650099",
+            "8660700",
+            "8690999"
+        ]
+    },
+    "04.11": {
+        "descricao": "Obstetr\u00edcia.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8630507",
+            "8650099",
+            "8690999"
+        ]
+    },
+    "04.12": {
+        "descricao": "Odontologia.",
+        "aliquota": "4,00",
+        "servicos": [
+            "8610102",
+            "8630504",
+            "8640205",
+            "8650003",
+            "8650004"
+        ]
+    },
+    "04.13": {
+        "descricao": "Ort\u00f3ptica.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8640205",
+            "8650099"
+        ]
+    },
+    "04.14": {
+        "descricao": "Pr\u00f3teses sob encomenda.",
+        "aliquota": "3,00",
+        "servicos": [
+            "3250703",
+            "3250706",
+            "9609299"
+        ]
+    },
+    "04.15": {
+        "descricao": "Psican\u00e1lise.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8650003"
+        ]
+    },
+    "04.16": {
+        "descricao": "Psicologia.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8650003"
+        ]
+    },
+    "04.17": {
+        "descricao": "Casas de repouso e de recupera\u00e7\u00e3o, creches, asilos e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8711501",
+            "8711502",
+            "8711503",
+            "8711504",
+            "8711505",
+            "8720401",
+            "8720499",
+            "8730101",
+            "8730102",
+            "8730199"
+        ]
+    },
+    "04.18": {
+        "descricao": "Insemina\u00e7\u00e3o artificial, fertiliza\u00e7\u00e3o in vitro e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8630507"
+        ]
+    },
+    "04.19": {
+        "descricao": "Bancos de sangue, leite, pele, olhos, \u00f3vulos, s\u00eamen e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8630507",
+            "8640212",
+            "8640214",
+            "8690902",
+            "8690999"
+        ]
+    },
+    "04.20": {
+        "descricao": "Coleta de sangue, leite, tecidos, s\u00eamen, \u00f3rg\u00e3os e materiais biol\u00f3gicos de qualquer esp\u00e9cie.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8630507",
+            "8640202",
+            "8640214",
+            "8650003"
+        ]
+    },
+    "04.21": {
+        "descricao": "Unidade de atendimento, assist\u00eancia ou tratamento m\u00f3vel e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8621601",
+            "8621602",
+            "8622400",
+            "8712300"
+        ]
+    },
+    "04.22": {
+        "descricao": "Planos de medicina de grupo ou individual e conv\u00eanios para presta\u00e7\u00e3o de assist\u00eancia m\u00e9dica, hospitalar, odontol\u00f3gica e cong\u00eaneres.",
+        "aliquota": "4,00",
+        "servicos": [
+            "6520100",
+            "6550200",
+            "8650003",
+            "8650004"
+        ]
+    },
+    "04.23": {
+        "descricao": "Outros planos de sa\u00fade que se cumpram atrav\u00e9s de servi\u00e7os de terceiros contratados, credenciados, cooperados ou apenas pagos pelo operador do plano mediante indica\u00e7\u00e3o do benefici\u00e1rio.",
+        "aliquota": "4,00",
+        "servicos": [
+            "6550200",
+            "8650004",
+            "8690999",
+            "9609299"
+        ]
+    },
+    "05.01": {
+        "descricao": "Medicina veterin\u00e1ria e zootecnia.",
+        "aliquota": "5,00",
+        "servicos": [
+            "7490103",
+            "7500100"
+        ]
+    },
+    "05.02": {
+        "descricao": "Hospitais, cl\u00ednicas, ambulat\u00f3rios, prontos-socorros e cong\u00eaneres, na \u00e1rea veterin\u00e1ria.",
+        "aliquota": "5,00",
+        "servicos": [
+            "7500100"
+        ]
+    },
+    "05.03": {
+        "descricao": "Laborat\u00f3rios de an\u00e1lise na \u00e1rea veterin\u00e1ria.",
+        "aliquota": "5,00",
+        "servicos": [
+            "7500100"
+        ]
+    },
+    "05.04": {
+        "descricao": "Insemina\u00e7\u00e3o artificial, fertiliza\u00e7\u00e3o in vitro e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "162801",
+            "7490199",
+            "7500100"
+        ]
+    },
+    "05.05": {
+        "descricao": "Bancos de sangue e de \u00f3rg\u00e3os e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "7500100"
+        ]
+    },
+    "05.06": {
+        "descricao": "Coleta de sangue, leite, tecidos, s\u00eamen, \u00f3rg\u00e3os e materiais biol\u00f3gicos de qualquer esp\u00e9cie.",
+        "aliquota": "5,00",
+        "servicos": [
+            "7500100"
+        ]
+    },
+    "05.07": {
+        "descricao": "Unidade de atendimento, assist\u00eancia ou tratamento m\u00f3vel e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "7500100"
+        ]
+    },
+    "05.08": {
+        "descricao": "Guarda, tratamento, amestramento, embelezamento, alojamento e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "162802",
+            "162803",
+            "162899",
+            "8011102",
+            "9609203",
+            "9609208"
+        ]
+    },
+    "05.09": {
+        "descricao": "Planos de atendimento e assist\u00eancia m\u00e9dico-veterin\u00e1ria.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6550200"
+        ]
+    },
+    "06.01": {
+        "descricao": "Barbearia, cabeleireiros, manicuros, pedicuros e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8690904",
+            "9602501",
+            "9602502"
+        ]
+    },
+    "06.02": {
+        "descricao": "Esteticistas, tratamento de pele, depila\u00e7\u00e3o e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "9602502",
+            "9609299"
+        ]
+    },
+    "06.03": {
+        "descricao": "Banhos, duchas, sauna, massagens e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "9609205"
+        ]
+    },
+    "06.04": {
+        "descricao": "Gin\u00e1stica, dan\u00e7a, esportes, nata\u00e7\u00e3o, artes marciais e demais atividades f\u00edsicas.",
+        "aliquota": "3,00",
+        "servicos": [
+            "5510801",
+            "8591100",
+            "8592901",
+            "9311500",
+            "9313100",
+            "9319199"
+        ]
+    },
+    "06.05": {
+        "descricao": "Centros de emagrecimento, spa e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "9602502"
+        ]
+    },
+    "06.06": {
+        "descricao": "Aplica\u00e7\u00e3o de tatuagens, piercings e cong\u00eaneres. (Inclu\u00eddo pela Lei Complementar n\u00ba 157, de 2016)",
+        "aliquota": "3,00",
+        "servicos": [
+            "9609206"
+        ]
+    },
+    "07.01": {
+        "descricao": "Engenharia, agronomia, agrimensura, arquitetura, geologia, urbanismo, paisagismo e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "2391501",
+            "4110700",
+            "4120400",
+            "4213800",
+            "4223500",
+            "4292801",
+            "4299501",
+            "4299599",
+            "4313400",
+            "4329105",
+            "4399101",
+            "4399102",
+            "4399103",
+            "4399104",
+            "6920601",
+            "7020400",
+            "7111100",
+            "7112000",
+            "7119701",
+            "7119702",
+            "7119799",
+            "7320300",
+            "7490103",
+            "7490199",
+            "8130300"
+        ]
+    },
+    "07.02": {
+        "descricao": "Execu\u00e7\u00e3o, por administra\u00e7\u00e3o, empreitada ou subempreitada, de obras de constru\u00e7\u00e3o civil, hidr\u00e1ulica ou el\u00e9trica e de outras obras semelhantes, inclusive sondagem, perfura\u00e7\u00e3o de po\u00e7os, escava\u00e7\u00e3o, drenagem e irriga\u00e7\u00e3o, terraplanagem, pavimenta\u00e7\u00e3o, concretagem e a instala\u00e7\u00e3o e montagem de produtos, pe\u00e7as e equipamentos (exceto o fornecimento de mercadorias produzidas pelo prestador de servi\u00e7os fora do local da presta\u00e7\u00e3o dos servi\u00e7os, que fica sujeito ao ICMS).",
+        "aliquota": "5,00",
+        "servicos": [
+            "2330305",
+            "3321000",
+            "4120400",
+            "4211101",
+            "4211102",
+            "4212000",
+            "4213800",
+            "4221901",
+            "4221902",
+            "4221904",
+            "4222701",
+            "4222702",
+            "4223500",
+            "4291000",
+            "4292801",
+            "4292802",
+            "4299501",
+            "4299599",
+            "4311802",
+            "4312600",
+            "4313400",
+            "4319300",
+            "4321500",
+            "4322301",
+            "4322302",
+            "4322303",
+            "4329103",
+            "4329199",
+            "4330401",
+            "4330403",
+            "4330404",
+            "4330405",
+            "4330499",
+            "4391600",
+            "4399101",
+            "4399103",
+            "4399105",
+            "4399199",
+            "7319099",
+            "8129000"
+        ]
+    },
+    "07.03": {
+        "descricao": "Elabora\u00e7\u00e3o de planos diretores, estudos de viabilidade, estudos organizacionais e outros, relacionados com obras e servi\u00e7os de engenharia; elabora\u00e7\u00e3o de anteprojetos, projetos b\u00e1sicos e projetos executivos para trabalhos de engenharia.",
+        "aliquota": "5,00",
+        "servicos": [
+            "4399199",
+            "7112000",
+            "8129000"
+        ]
+    },
+    "07.04": {
+        "descricao": "Demoli\u00e7\u00e3o.",
+        "aliquota": "5,00",
+        "servicos": [
+            "4311801"
+        ]
+    },
+    "07.05": {
+        "descricao": "Repara\u00e7\u00e3o, conserva\u00e7\u00e3o e reforma de edif\u00edcios, estradas, pontes, portos e cong\u00eaneres (exceto o fornecimento de mercadorias produzidas pelo prestador dos servi\u00e7os, fora do local da presta\u00e7\u00e3o dos servi\u00e7os, que fica sujeito ao ICMS).",
+        "aliquota": "5,00",
+        "servicos": [
+            "4120400",
+            "4211101",
+            "4211102",
+            "4212000",
+            "4213800",
+            "4221901",
+            "4221902",
+            "4221903",
+            "4221904",
+            "4221905",
+            "4291000",
+            "4299501",
+            "4321500",
+            "4322301",
+            "4329199",
+            "4330401",
+            "4330403",
+            "4330404",
+            "4330405",
+            "4330499",
+            "4391600",
+            "4399103",
+            "4399199",
+            "7319099",
+            "9102302"
+        ]
+    },
+    "07.06": {
+        "descricao": "Coloca\u00e7\u00e3o e instala\u00e7\u00e3o de tapetes, carpetes, assoalhos, cortinas, revestimentos de parede, vidros, divis\u00f3rias, placas de gesso e cong\u00eaneres, com material fornecido pelo tomador do servi\u00e7o.",
+        "aliquota": "5,00",
+        "servicos": [
+            "4120400",
+            "4322301",
+            "4329199",
+            "4330402",
+            "4330403",
+            "4330404",
+            "4330405",
+            "4330499",
+            "4399103",
+            "4399199",
+            "7319099",
+            "8122200",
+            "9609299"
+        ]
+    },
+    "07.07": {
+        "descricao": "Recupera\u00e7\u00e3o, raspagem, polimento e lustra\u00e7\u00e3o de pisos e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "3839499",
+            "4330405"
+        ]
+    },
+    "07.08": {
+        "descricao": "Calafeta\u00e7\u00e3o.",
+        "aliquota": "5,00",
+        "servicos": [
+            "4329105",
+            "4330401",
+            "4330405",
+            "4330499",
+            "4399199"
+        ]
+    },
+    "07.09": {
+        "descricao": "Varri\u00e7\u00e3o, coleta, remo\u00e7\u00e3o, incinera\u00e7\u00e3o, tratamento, reciclagem, separa\u00e7\u00e3o e destina\u00e7\u00e3o final de lixo, rejeitos e outros res\u00edduos quaisquer.",
+        "aliquota": "5,00",
+        "servicos": [
+            "3811400",
+            "3812200",
+            "3821100",
+            "3822000",
+            "3831901",
+            "3831999",
+            "3832700",
+            "3839401",
+            "3839499",
+            "4329105",
+            "4930201",
+            "5211799",
+            "5212500",
+            "7319099",
+            "8111700",
+            "8121400",
+            "8122200",
+            "8129000",
+            "9609299",
+            "9700500"
+        ]
+    },
+    "07.10": {
+        "descricao": "Limpeza, manuten\u00e7\u00e3o e conserva\u00e7\u00e3o de vias e logradouros p\u00fablicos, im\u00f3veis, chamin\u00e9s, piscinas, parques, jardins e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "3702900",
+            "4213800",
+            "8111700",
+            "8121400",
+            "8129000",
+            "8130300",
+            "9601703",
+            "9609299",
+            "9700500"
+        ]
+    },
+    "07.11": {
+        "descricao": "Decora\u00e7\u00e3o e jardinagem, inclusive corte e poda de \u00e1rvores.",
+        "aliquota": "5,00",
+        "servicos": [
+            "7410201",
+            "7410202",
+            "8111700",
+            "8121400",
+            "8129000",
+            "8130300",
+            "9103100",
+            "9700500"
+        ]
+    },
+    "07.12": {
+        "descricao": "Controle e tratamento de efluentes de qualquer natureza e de agentes f\u00edsicos, qu\u00edmicos e biol\u00f3gicos.",
+        "aliquota": "5,00",
+        "servicos": [
+            "3822000",
+            "3900500",
+            "7490199",
+            "8121400",
+            "8129000",
+            "8130300"
+        ]
+    },
+    "07.13": {
+        "descricao": "Dedetiza\u00e7\u00e3o, desinfec\u00e7\u00e3o, desinsetiza\u00e7\u00e3o, imuniza\u00e7\u00e3o, higieniza\u00e7\u00e3o, desratiza\u00e7\u00e3o, pulveriza\u00e7\u00e3o e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8121400",
+            "8122200",
+            "8129000",
+            "8130300",
+            "9609299"
+        ]
+    },
+    "07.16": {
+        "descricao": "Florestamento, reflorestamento, semeadura, aduba\u00e7\u00e3o, repara\u00e7\u00e3o de solo, plantio, silagem, colheita, corte e descascamento de \u00e1rvores, silvicultura, explora\u00e7\u00e3o florestal e dos servi\u00e7os cong\u00eaneres indissoci\u00e1veis da forma\u00e7\u00e3o, manuten\u00e7\u00e3o e colheita de florestas, para quaisquer fins e por quaisquer meios.",
+        "aliquota": "2,00",
+        "servicos": [
+            "161002",
+            "161003",
+            "3839401",
+            "9609299"
+        ]
+    },
+    "07.17": {
+        "descricao": "Escoramento, conten\u00e7\u00e3o de encostas e servi\u00e7os cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4221901",
+            "4399199"
+        ]
+    },
+    "07.18": {
+        "descricao": "Limpeza e dragagem de rios, portos, canais, ba\u00edas, lagos, lagoas, represas, a\u00e7udes e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4221901",
+            "7490199"
+        ]
+    },
+    "07.19": {
+        "descricao": "Acompanhamento e fiscaliza\u00e7\u00e3o da execu\u00e7\u00e3o de obras de engenharia, arquitetura e urbanismo.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4399101",
+            "7112000"
+        ]
+    },
+    "07.20": {
+        "descricao": "Aerofotogrametria (inclusive interpreta\u00e7\u00e3o), cartografia, mapeamento, levantamentos topogr\u00e1ficos, batim\u00e9tricos, geogr\u00e1ficos, geod\u00e9sicos, geol\u00f3gicos, geof\u00edsicos e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7119701",
+            "7119702",
+            "7119799",
+            "8640204"
+        ]
+    },
+    "07.21": {
+        "descricao": "Pesquisa, perfura\u00e7\u00e3o, cimenta\u00e7\u00e3o, mergulho, perfilagem, concreta\u00e7\u00e3o, testemunhagem, pescaria, estimula\u00e7\u00e3o e outros servi\u00e7os relacionados com a explora\u00e7\u00e3o e explota\u00e7\u00e3o de petr\u00f3leo, g\u00e1s natural e de outros recursos minerais.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7490102",
+            "7490199"
+        ]
+    },
+    "07.22": {
+        "descricao": "Nuclea\u00e7\u00e3o e bombardeamento de nuvens e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7490199"
+        ]
+    },
+    "08.01": {
+        "descricao": "Ensino regular pr\u00e9-escolar, fundamental, m\u00e9dio e superior.",
+        "aliquota": "4,00",
+        "servicos": [
+            "8511200",
+            "8512100",
+            "8513900",
+            "8520100",
+            "8531700",
+            "8532500",
+            "8533300",
+            "8541400",
+            "8542200",
+            "8592999",
+            "8593700"
+        ]
+    },
+    "08.02": {
+        "descricao": "Instru\u00e7\u00e3o, treinamento, orienta\u00e7\u00e3o pedag\u00f3gica e educacional, avalia\u00e7\u00e3o de conhecimentos de qualquer natureza.",
+        "aliquota": "4,00",
+        "servicos": [
+            "7911200",
+            "8511200",
+            "8513900",
+            "8520100",
+            "8531700",
+            "8550302",
+            "8591100",
+            "8592901",
+            "8592902",
+            "8592903",
+            "8592999",
+            "8593700",
+            "8599601",
+            "8599602",
+            "8599603",
+            "8599604",
+            "8599605",
+            "8599699",
+            "9312300"
+        ]
+    },
+    "09.01": {
+        "descricao": "Hospedagem de qualquer natureza em hot\u00e9is, apart-service condominiais, flat, apart-hot\u00e9is, hot\u00e9is resid\u00eancia, residence-service, suite service, hotelaria mar\u00edtima, mot\u00e9is, pens\u00f5es e cong\u00eaneres; ocupa\u00e7\u00e3o por temporada com fornecimento de servi\u00e7o (o valor da alimenta\u00e7\u00e3o e gorjeta, quando inclu\u00eddo no pre\u00e7o da di\u00e1ria, fica sujeito ao Imposto Sobre Servi\u00e7os).",
+        "aliquota": "3,00",
+        "servicos": [
+            "5510801",
+            "5510802",
+            "5510803",
+            "5590601",
+            "5590602",
+            "5590603",
+            "5590699",
+            "6110899",
+            "8730102"
+        ]
+    },
+    "09.02": {
+        "descricao": "Agenciamento, organiza\u00e7\u00e3o, promo\u00e7\u00e3o, intermedia\u00e7\u00e3o e execu\u00e7\u00e3o de programas de turismo, passeios, viagens, excurs\u00f5es, hospedagens e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4950700",
+            "5510801",
+            "5510802",
+            "5590699",
+            "7911200",
+            "7990200",
+            "8591100",
+            "9329899"
+        ]
+    },
+    "09.03": {
+        "descricao": "Guias de turismo.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4929903",
+            "4929904",
+            "5510801",
+            "7911200",
+            "7912100"
+        ]
+    },
+    "10.01": {
+        "descricao": "Agenciamento, corretagem ou intermedia\u00e7\u00e3o de c\u00e2mbio, de seguros, de cart\u00f5es de cr\u00e9dito, de planos de sa\u00fade e de planos de previd\u00eancia privada.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6399200",
+            "6499999",
+            "6511101",
+            "6612603",
+            "6619399",
+            "6622300",
+            "7490104"
+        ]
+    },
+    "10.02": {
+        "descricao": "Agenciamento, corretagem ou intermedia\u00e7\u00e3o de t\u00edtulos em geral, valores mobili\u00e1rios e contratos quaisquer.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4512902",
+            "4542102",
+            "5229001",
+            "6190699",
+            "6499999",
+            "6611801",
+            "6612601",
+            "6612602",
+            "6612604",
+            "6619399",
+            "6622300",
+            "6821801",
+            "6821802",
+            "6822600",
+            "7490104",
+            "7490105",
+            "7740300"
+        ]
+    },
+    "10.03": {
+        "descricao": "Agenciamento, corretagem ou intermedia\u00e7\u00e3o de direitos de propriedade industrial, art\u00edstica ou liter\u00e1ria.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6499999",
+            "6612601",
+            "6613400",
+            "6911703",
+            "7490104",
+            "8550302"
+        ]
+    },
+    "10.04": {
+        "descricao": "Agenciamento, corretagem ou intermedia\u00e7\u00e3o de contratos de arrendamento mercantil (leasing), de franquia (franchising) e de faturiza\u00e7\u00e3o (factoring).",
+        "aliquota": "3,00",
+        "servicos": [
+            "6434400",
+            "6491300",
+            "6499999",
+            "6611801",
+            "6612604",
+            "6619302",
+            "7490104"
+        ]
+    },
+    "10.05": {
+        "descricao": "Agenciamento, corretagem ou intermedia\u00e7\u00e3o de bens m\u00f3veis ou im\u00f3veis, n\u00e3o abrangidos em outros itens ou subitens, inclusive aqueles realizados no \u00e2mbito de Bolsas de Mercadorias e Futuros, por quaisquer meios.",
+        "aliquota": "4,00",
+        "servicos": [
+            "4512902",
+            "4542102",
+            "5250803",
+            "6435203",
+            "6499999",
+            "6612605",
+            "6619399",
+            "6821801",
+            "6821802",
+            "6822600",
+            "7490104",
+            "9609202"
+        ]
+    },
+    "10.06": {
+        "descricao": "Agenciamento mar\u00edtimo.",
+        "aliquota": "3,00",
+        "servicos": [
+            "5232000",
+            "5250803"
+        ]
+    },
+    "10.07": {
+        "descricao": "Agenciamento de not\u00edcias.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6391700",
+            "7490104"
+        ]
+    },
+    "10.08": {
+        "descricao": "Agenciamento de publicidade e propaganda, inclusive o agenciamento de veicula\u00e7\u00e3o por quaisquer meios.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7311400",
+            "7312200",
+            "7490104"
+        ]
+    },
+    "10.09": {
+        "descricao": "Representa\u00e7\u00e3o de qualquer natureza, inclusive comercial.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4512901",
+            "4542101",
+            "4611700",
+            "4612500",
+            "4613300",
+            "4614100",
+            "4615000",
+            "4616800",
+            "4617600",
+            "4618401",
+            "4618402",
+            "4618403",
+            "4618499",
+            "4619200",
+            "6190602",
+            "8220200"
+        ]
+    },
+    "10.10": {
+        "descricao": "Distribui\u00e7\u00e3o de bens de terceiros.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6612602",
+            "8299799"
+        ]
+    },
+    "11.01": {
+        "descricao": "Guarda e estacionamento de ve\u00edculos terrestres automotores, de aeronaves e de embarca\u00e7\u00f5es.",
+        "aliquota": "5,00",
+        "servicos": [
+            "5223100"
+        ]
+    },
+    "11.02": {
+        "descricao": "Vigil\u00e2ncia, seguran\u00e7a ou monitoramento de bens, pessoas e semoventes. (Reda\u00e7\u00e3o dada pela Lei Complementar n\u00ba 157, de 2016)",
+        "aliquota": "5,00",
+        "servicos": [
+            "8011101",
+            "8012900",
+            "8020000",
+            "8020001",
+            "8020002"
+        ]
+    },
+    "11.03": {
+        "descricao": "Escolta, inclusive de ve\u00edculos e cargas.",
+        "aliquota": "5,00",
+        "servicos": [
+            "5229099",
+            "8011101",
+            "8012900"
+        ]
+    },
+    "11.04": {
+        "descricao": "Armazenamento, dep\u00f3sito, carga, descarga, arruma\u00e7\u00e3o e guarda de bens de qualquer esp\u00e9cie.",
+        "aliquota": "5,00",
+        "servicos": [
+            "3811400",
+            "3812200",
+            "5211701",
+            "5211702",
+            "5211799",
+            "5212500",
+            "5250804",
+            "8011102",
+            "8012900",
+            "8020000",
+            "9609299"
+        ]
+    },
+    "12.01": {
+        "descricao": "Espet\u00e1culos teatrais.",
+        "aliquota": "3,00",
+        "servicos": [
+            "9001901",
+            "9001902",
+            "9001904",
+            "9001999",
+            "9002701",
+            "9003500",
+            "9102301",
+            "9329899"
+        ]
+    },
+    "12.02": {
+        "descricao": "Exibi\u00e7\u00f5es cinematogr\u00e1ficas.",
+        "aliquota": "3,00",
+        "servicos": [
+            "5911199",
+            "5914600",
+            "9329801",
+            "9329899",
+            "9609204"
+        ]
+    },
+    "12.03": {
+        "descricao": "Espet\u00e1culos circenses.",
+        "aliquota": "5,00",
+        "servicos": [
+            "5911101",
+            "9001904",
+            "9001999",
+            "9102301",
+            "9329899"
+        ]
+    },
+    "12.04": {
+        "descricao": "Programas de audit\u00f3rio.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6021700",
+            "9001999",
+            "9102301",
+            "9329899"
+        ]
+    },
+    "12.05": {
+        "descricao": "Parques de divers\u00f5es, centros de lazer e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "9001999",
+            "9102301",
+            "9103100",
+            "9200399",
+            "9319199",
+            "9321200",
+            "9329801",
+            "9329803",
+            "9329804",
+            "9329899"
+        ]
+    },
+    "12.06": {
+        "descricao": "Boates, taxi-dancing e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "8230002",
+            "9001906",
+            "9003500",
+            "9329801",
+            "9329899"
+        ]
+    },
+    "12.07": {
+        "descricao": "Shows, ballet, dan\u00e7as, desfiles, bailes, \u00f3peras, concertos, recitais, festivais e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "5911102",
+            "8230002",
+            "9001902",
+            "9001903",
+            "9001905",
+            "9001999",
+            "9329801",
+            "9329899"
+        ]
+    },
+    "12.08": {
+        "descricao": "Feiras, exposi\u00e7\u00f5es, congressos e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8230001",
+            "8299799",
+            "9002701",
+            "9329801",
+            "9329899"
+        ]
+    },
+    "12.09": {
+        "descricao": "Bilhares, boliches e divers\u00f5es eletr\u00f4nicas ou n\u00e3o.",
+        "aliquota": "5,00",
+        "servicos": [
+            "8299707",
+            "9001999",
+            "9200399",
+            "9329801",
+            "9329802",
+            "9329803",
+            "9329804",
+            "9329899"
+        ]
+    },
+    "12.10": {
+        "descricao": "Corridas e competi\u00e7\u00f5es de animais.",
+        "aliquota": "5,00",
+        "servicos": [
+            "9001905",
+            "9200302",
+            "9319199"
+        ]
+    },
+    "12.11": {
+        "descricao": "Competi\u00e7\u00f5es esportivas ou de destreza f\u00edsica ou intelectual, com ou sem a participa\u00e7\u00e3o do espectador.",
+        "aliquota": "5,00",
+        "servicos": [
+            "9311500",
+            "9319101",
+            "9319199",
+            "9329899"
+        ]
+    },
+    "12.12": {
+        "descricao": "Execu\u00e7\u00e3o de m\u00fasica.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8230002",
+            "8592903",
+            "9001902",
+            "9001906",
+            "9102301",
+            "9329801",
+            "9329899"
+        ]
+    },
+    "12.13": {
+        "descricao": "Produ\u00e7\u00e3o, mediante ou sem encomenda pr\u00e9via, de eventos, espet\u00e1culos, entrevistas, shows, ballet, dan\u00e7as, desfiles, bailes, teatros, \u00f3peras, concertos, recitais, festivais e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "5911102",
+            "5911199",
+            "6021700",
+            "8230001",
+            "8230002",
+            "9001901",
+            "9001902",
+            "9001903",
+            "9001904",
+            "9001906",
+            "9002701",
+            "9319101",
+            "9329801",
+            "9329899"
+        ]
+    },
+    "12.14": {
+        "descricao": "Fornecimento de m\u00fasica para ambientes fechados ou n\u00e3o, mediante transmiss\u00e3o por qualquer processo.",
+        "aliquota": "5,00",
+        "servicos": [
+            "8230002",
+            "9001902",
+            "9001906",
+            "9329801",
+            "9329899",
+            "9609299"
+        ]
+    },
+    "12.15": {
+        "descricao": "Desfiles de blocos carnavalescos ou folcl\u00f3ricos, trios el\u00e9tricos e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "9001902",
+            "9001903",
+            "9002701",
+            "9329899",
+            "9493600"
+        ]
+    },
+    "12.16": {
+        "descricao": "Exibi\u00e7\u00e3o de filmes, entrevistas, musicais, espet\u00e1culos, shows, concertos, desfiles, \u00f3peras, competi\u00e7\u00f5es esportivas, de destreza intelectual ou cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "5911102",
+            "5914600",
+            "9001902",
+            "9319101",
+            "9329899"
+        ]
+    },
+    "12.17": {
+        "descricao": "Recrea\u00e7\u00e3o e anima\u00e7\u00e3o, inclusive em festas e eventos de qualquer natureza.",
+        "aliquota": "5,00",
+        "servicos": [
+            "5510801",
+            "8230001",
+            "9001905",
+            "9329899"
+        ]
+    },
+    "13.02": {
+        "descricao": "Fonografia ou grava\u00e7\u00e3o de sons, inclusive trucagem, dublagem, mixagem e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "1830001",
+            "5912001",
+            "5912002",
+            "5920100",
+            "7410201",
+            "7420004",
+            "9001902"
+        ]
+    },
+    "13.03": {
+        "descricao": "Fotografia e cinematografia, inclusive revela\u00e7\u00e3o, amplia\u00e7\u00e3o, c\u00f3pia, reprodu\u00e7\u00e3o, trucagem e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "1830002",
+            "5911101",
+            "5911102",
+            "5911199",
+            "5912099",
+            "5920100",
+            "7312200",
+            "7410201",
+            "7420001",
+            "7420002",
+            "7420003",
+            "7420004",
+            "8219901",
+            "9001906",
+            "9609204"
+        ]
+    },
+    "13.04": {
+        "descricao": "Reprografia, microfilmagem e digitaliza\u00e7\u00e3o.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7410201",
+            "7420005",
+            "8219901",
+            "8299707"
+        ]
+    },
+    "13.05": {
+        "descricao": "Composi\u00e7\u00e3o gr\u00e1fica, inclusive confec\u00e7\u00e3o de impressos gr\u00e1ficos, fotocomposi\u00e7\u00e3o, clicheria, zincografia, litografia e fotolitografia, exceto se destinados a posterior opera\u00e7\u00e3o de comercializa\u00e7\u00e3o ou industrializa\u00e7\u00e3o, ainda que incorporados, de qualquer forma, a outra mercadoria que deva ser objeto de posterior circula\u00e7\u00e3o, tais como bulas, r\u00f3tulos, etiquetas, caixas, cartuchos, embalagens e manuais t\u00e9cnicos e de instru\u00e7\u00e3o, quando ficar\u00e3o sujeitos ao ICMS. (Reda\u00e7\u00e3o dada pela Lei Complementar n\u00ba 157, de 2016)",
+        "aliquota": "3,00",
+        "servicos": [
+            "1811301",
+            "1811302",
+            "1812100",
+            "1813001",
+            "1813099",
+            "1821100",
+            "1822901",
+            "5812300",
+            "7410201",
+            "8219901",
+            "8299799",
+            "9609299"
+        ]
+    },
+    "14.01": {
+        "descricao": "Lubrifica\u00e7\u00e3o, limpeza, lustra\u00e7\u00e3o, revis\u00e3o, carga e recarga, conserto, restaura\u00e7\u00e3o, blindagem, manuten\u00e7\u00e3o e conserva\u00e7\u00e3o de m\u00e1quinas, ve\u00edculos, aparelhos, equipamentos, motores, elevadores ou de qualquer objeto (exceto pe\u00e7as e partes empregadas, que ficam sujeitas ao ICMS).",
+        "aliquota": "5,00",
+        "servicos": [
+            "3311200",
+            "3312102",
+            "3312103",
+            "3312104",
+            "3313901",
+            "3313902",
+            "3313999",
+            "3314701",
+            "3314702",
+            "3314703",
+            "3314704",
+            "3314705",
+            "3314706",
+            "3314707",
+            "3314708",
+            "3314709",
+            "3314710",
+            "3314711",
+            "3314712",
+            "3314713",
+            "3314714",
+            "3314715",
+            "3314716",
+            "3314717",
+            "3314718",
+            "3314719",
+            "3314720",
+            "3314721",
+            "3314722",
+            "3314799",
+            "3315500",
+            "3316301",
+            "3316302",
+            "3317101",
+            "3317102",
+            "3319800",
+            "4221903",
+            "4221905",
+            "4321500",
+            "4322302",
+            "4322303",
+            "4329103",
+            "4329104",
+            "4329105",
+            "4399104",
+            "4520001",
+            "4520002",
+            "4520003",
+            "4520004",
+            "4520005",
+            "4520007",
+            "4543900",
+            "4751202",
+            "6190699",
+            "6209100",
+            "7112000",
+            "7490102",
+            "7732201",
+            "8020000",
+            "8299707",
+            "9511800",
+            "9512600",
+            "9521500",
+            "9529101",
+            "9529103",
+            "9529104",
+            "9529105",
+            "9529106",
+            "9529199",
+            "9609299"
+        ]
+    },
+    "14.02": {
+        "descricao": "Assist\u00eancia t\u00e9cnica.",
+        "aliquota": "5,00",
+        "servicos": [
+            "3311200",
+            "3312102",
+            "3312103",
+            "3312104",
+            "3313901",
+            "3313999",
+            "3314704",
+            "3314705",
+            "3314707",
+            "3314709",
+            "3314710",
+            "3314711",
+            "3314712",
+            "3314713",
+            "3314714",
+            "3314716",
+            "3314717",
+            "3314718",
+            "3314720",
+            "3314721",
+            "3314722",
+            "3319800",
+            "3329501",
+            "3831999",
+            "4321500",
+            "4322302",
+            "4322303",
+            "4329102",
+            "4329103",
+            "4520001",
+            "4520002",
+            "4520003",
+            "4520004",
+            "4520006",
+            "4543900",
+            "5229002",
+            "6120501",
+            "6141800",
+            "6142600",
+            "6143400",
+            "6209100",
+            "8299799",
+            "9511800",
+            "9512600",
+            "9521500",
+            "9529103",
+            "9529104",
+            "9529199"
+        ]
+    },
+    "14.03": {
+        "descricao": "Recondicionamento de motores (exceto pe\u00e7as e partes empregadas, que ficam sujeitas ao ICMS).",
+        "aliquota": "5,00",
+        "servicos": [
+            "2950600",
+            "4520001",
+            "8299799"
+        ]
+    },
+    "14.04": {
+        "descricao": "Recauchutagem ou regenera\u00e7\u00e3o de pneus.",
+        "aliquota": "3,00",
+        "servicos": [
+            "2212900",
+            "4520006"
+        ]
+    },
+    "14.05": {
+        "descricao": "Restaura\u00e7\u00e3o, recondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, galvanoplastia, anodiza\u00e7\u00e3o, corte, recorte, plastifica\u00e7\u00e3o, costura, acabamento, polimento e cong\u00eaneres de objetos quaisquer. (Reda\u00e7\u00e3o dada pela Lei Complementar n\u00ba 157, de 2016)",
+        "aliquota": "5,00",
+        "servicos": [
+            "1340501",
+            "2391501",
+            "2391502",
+            "2391503",
+            "2539001",
+            "2539002",
+            "2599302",
+            "2722802",
+            "3250709",
+            "4292802",
+            "4520001",
+            "4520002",
+            "4520003",
+            "4520005",
+            "4520006",
+            "8292000",
+            "8299799",
+            "9002702",
+            "9521500",
+            "9529105",
+            "9529199",
+            "9609299"
+        ]
+    },
+    "14.06": {
+        "descricao": "Instala\u00e7\u00e3o e montagem de aparelhos, m\u00e1quinas e equipamentos, inclusive montagem industrial, prestados ao usu\u00e1rio final, exclusivamente com material por ele fornecido.",
+        "aliquota": "5,00",
+        "servicos": [
+            "3321000",
+            "3329501",
+            "4221902",
+            "4292801",
+            "4321500",
+            "4322301",
+            "4322302",
+            "4322303",
+            "4329101",
+            "4329102",
+            "4329103",
+            "4329104",
+            "4330402",
+            "4399102",
+            "4520001",
+            "4520003",
+            "4520006",
+            "4520007",
+            "6141800",
+            "6142600",
+            "6143400",
+            "6190699",
+            "7319001",
+            "8299799",
+            "9511800",
+            "9521500"
+        ]
+    },
+    "14.07": {
+        "descricao": "Coloca\u00e7\u00e3o de molduras e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "4330403"
+        ]
+    },
+    "14.08": {
+        "descricao": "Encaderna\u00e7\u00e3o, grava\u00e7\u00e3o e doura\u00e7\u00e3o de livros, revistas e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "1822999",
+            "8299799"
+        ]
+    },
+    "14.09": {
+        "descricao": "Alfaiataria e costura, quando o material for fornecido pelo usu\u00e1rio final, exceto aviamento.",
+        "aliquota": "3,00",
+        "servicos": [
+            "1340599",
+            "1412602",
+            "1413402",
+            "1531902",
+            "9529199"
+        ]
+    },
+    "14.10": {
+        "descricao": "Tinturaria e lavanderia.",
+        "aliquota": "3,00",
+        "servicos": [
+            "1340502",
+            "1340599",
+            "5510801",
+            "8299799",
+            "9601701",
+            "9601702",
+            "9601703"
+        ]
+    },
+    "14.11": {
+        "descricao": "Tape\u00e7aria e reforma de estofamentos em geral.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4520001",
+            "4520008",
+            "9529105",
+            "9529199"
+        ]
+    },
+    "14.12": {
+        "descricao": "Funilaria e lanternagem.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4520001",
+            "4520002",
+            "4520003",
+            "4520005",
+            "8299799"
+        ]
+    },
+    "14.13": {
+        "descricao": "Carpintaria e serralheria.",
+        "aliquota": "3,00",
+        "servicos": [
+            "1622699",
+            "2399101",
+            "2512800",
+            "2542000",
+            "3329501",
+            "4330402",
+            "8299799"
+        ]
+    },
+    "14.14": {
+        "descricao": "Guincho intramunicipal, guindaste e i\u00e7amento.",
+        "aliquota": "5,00",
+        "servicos": [
+            "4399104",
+            "5229002"
+        ]
+    },
+    "15.01": {
+        "descricao": "Administra\u00e7\u00e3o de fundos quaisquer, de cons\u00f3rcio, de cart\u00e3o de cr\u00e9dito ou d\u00e9bito e cong\u00eaneres, de carteira de clientes, de cheques pr\u00e9-datados e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6410700",
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424702",
+            "6424703",
+            "6424704",
+            "6431000",
+            "6432800",
+            "6433600",
+            "6434400",
+            "6435203",
+            "6470101",
+            "6470102",
+            "6470103",
+            "6491300",
+            "6499901",
+            "6499902",
+            "6613400",
+            "6619305",
+            "6630400"
+        ]
+    },
+    "15.02": {
+        "descricao": "Abertura de contas em geral, inclusive conta-corrente, conta de investimentos e aplica\u00e7\u00e3o e caderneta de poupan\u00e7a, no Pa\u00eds e no exterior, bem como a manuten\u00e7\u00e3o das referidas contas ativas e inativas.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704",
+            "6433600",
+            "6435202",
+            "6450600"
+        ]
+    },
+    "15.03": {
+        "descricao": "Loca\u00e7\u00e3o e manuten\u00e7\u00e3o de cofres particulares, de terminais eletr\u00f4nicos, de terminais de atendimento e de bens e equipamentos em geral.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6209100",
+            "6410700",
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704"
+        ]
+    },
+    "15.04": {
+        "descricao": "Fornecimento ou emiss\u00e3o de atestados em geral, inclusive atestado de idoneidade, atestado de capacidade financeira e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704"
+        ]
+    },
+    "15.05": {
+        "descricao": "Cadastro, elabora\u00e7\u00e3o de ficha cadastral, renova\u00e7\u00e3o cadastral e cong\u00eaneres, inclus\u00e3o ou exclus\u00e3o no Cadastro de Emitentes de Cheques sem Fundos - CCF ou em quaisquer outros bancos cadastrais.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704"
+        ]
+    },
+    "15.06": {
+        "descricao": "Emiss\u00e3o, reemiss\u00e3o e fornecimento de avisos, comprovantes e documentos em geral; abono de firmas; coleta e entrega de documentos, bens e valores; comunica\u00e7\u00e3o com outra ag\u00eancia ou com a administra\u00e7\u00e3o central; licenciamento eletr\u00f4nico de ve\u00edculos; transfer\u00eancia de ve\u00edculos; agenciamento fiduci\u00e1rio ou deposit\u00e1rio; devolu\u00e7\u00e3o de bens em cust\u00f3dia.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704",
+            "6431000"
+        ]
+    },
+    "15.07": {
+        "descricao": "Acesso, movimenta\u00e7\u00e3o, atendimento e consulta a contas em geral, por qualquer meio ou processo, inclusive por telefone, fac-s\u00edmile, internet e telex, acesso a terminais de atendimento, inclusive vinte e quatro horas; acesso a outro banco e a rede compartilhada; fornecimento de saldo, extrato e demais informa\u00e7\u00f5es relativas a contas em geral, por qualquer meio ou processo.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6110801",
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704",
+            "6432800",
+            "6433600",
+            "6435203",
+            "6450600",
+            "6619304"
+        ]
+    },
+    "15.08": {
+        "descricao": "Emiss\u00e3o, reemiss\u00e3o, altera\u00e7\u00e3o, cess\u00e3o, substitui\u00e7\u00e3o, cancelamento e registro de contrato de cr\u00e9dito; estudo, an\u00e1lise e avalia\u00e7\u00e3o de opera\u00e7\u00f5es de cr\u00e9dito; emiss\u00e3o, concess\u00e3o, altera\u00e7\u00e3o ou contrata\u00e7\u00e3o de aval, fian\u00e7a, anu\u00eancia e cong\u00eaneres; servi\u00e7os relativos a abertura de cr\u00e9dito, para quaisquer fins.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704",
+            "6431000",
+            "6432800",
+            "6433600",
+            "6435202",
+            "6435203",
+            "6436100",
+            "6437900"
+        ]
+    },
+    "15.09": {
+        "descricao": "Arrendamento mercantil (leasing) de quaisquer bens, inclusive cess\u00e3o de direitos e obriga\u00e7\u00f5es, substitui\u00e7\u00e3o de garantia, altera\u00e7\u00e3o, cancelamento e registro de contrato, e demais servi\u00e7os relacionados ao arrendamento mercantil (leasing).",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704",
+            "6431000",
+            "6440900"
+        ]
+    },
+    "15.10": {
+        "descricao": "Servi\u00e7os relacionados a cobran\u00e7as, recebimentos ou pagamentos em geral, de t\u00edtulos quaisquer, de contas ou carn\u00eas, de c\u00e2mbio, de tributos e por conta de terceiros, inclusive os efetuados por meio eletr\u00f4nico, autom\u00e1tico ou por m\u00e1quinas de atendimento; fornecimento de posi\u00e7\u00e3o de cobran\u00e7a, recebimento ou pagamento; emiss\u00e3o de carn\u00eas, fichas de compensa\u00e7\u00e3o, impressos e documentos em geral.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704",
+            "6619301",
+            "6619302",
+            "8291100",
+            "8299706"
+        ]
+    },
+    "15.11": {
+        "descricao": "Devolu\u00e7\u00e3o de t\u00edtulos, protesto de t\u00edtulos, susta\u00e7\u00e3o de protesto, manuten\u00e7\u00e3o de t\u00edtulos, reapresenta\u00e7\u00e3o de t\u00edtulos, e demais servi\u00e7os a eles relacionados.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704"
+        ]
+    },
+    "15.12": {
+        "descricao": "Cust\u00f3dia em geral, inclusive de t\u00edtulos e valores mobili\u00e1rios.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704",
+            "6431000",
+            "6499999",
+            "6619301"
+        ]
+    },
+    "15.13": {
+        "descricao": "Servi\u00e7os relacionados a opera\u00e7\u00f5es de c\u00e2mbio em geral, edi\u00e7\u00e3o, altera\u00e7\u00e3o, prorroga\u00e7\u00e3o, cancelamento e baixa de contrato de c\u00e2mbio; emiss\u00e3o de registro de exporta\u00e7\u00e3o ou de cr\u00e9dito; cobran\u00e7a ou dep\u00f3sito no exterior; emiss\u00e3o, fornecimento e cancelamento de cheques de viagem; fornecimento, transfer\u00eancia, cancelamento e demais servi\u00e7os relativos a carta de cr\u00e9dito de importa\u00e7\u00e3o, exporta\u00e7\u00e3o e garantias recebidas; envio e recebimento de mensagens em geral relacionadas a opera\u00e7\u00f5es de c\u00e2mbio.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704",
+            "6438701",
+            "6438799",
+            "6612603"
+        ]
+    },
+    "15.14": {
+        "descricao": "Fornecimento, emiss\u00e3o, reemiss\u00e3o, renova\u00e7\u00e3o e manuten\u00e7\u00e3o de cart\u00e3o magn\u00e9tico, cart\u00e3o de cr\u00e9dito, cart\u00e3o de d\u00e9bito, cart\u00e3o sal\u00e1rio e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704"
+        ]
+    },
+    "15.15": {
+        "descricao": "Compensa\u00e7\u00e3o de cheques e t\u00edtulos quaisquer; servi\u00e7os relacionados a dep\u00f3sito, inclusive dep\u00f3sito identificado, a saque de contas quaisquer, por qualquer meio ou processo, inclusive em terminais eletr\u00f4nicos e de atendimento.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704"
+        ]
+    },
+    "15.16": {
+        "descricao": "Emiss\u00e3o, reemiss\u00e3o, liquida\u00e7\u00e3o, altera\u00e7\u00e3o, cancelamento e baixa de ordens de pagamento, ordens de cr\u00e9dito e similares, por qualquer meio ou processo; servi\u00e7os relacionados \u00e0 transfer\u00eancia de valores, dados, fundos, pagamentos e similares, inclusive entre contas em geral.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704",
+            "6432800",
+            "6433600"
+        ]
+    },
+    "15.17": {
+        "descricao": "Emiss\u00e3o, fornecimento, devolu\u00e7\u00e3o, susta\u00e7\u00e3o, cancelamento e oposi\u00e7\u00e3o de cheques quaisquer, avulso ou por tal\u00e3o.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704"
+        ]
+    },
+    "15.18": {
+        "descricao": "Servi\u00e7os relacionados a cr\u00e9dito imobili\u00e1rio, avalia\u00e7\u00e3o e vistoria de im\u00f3vel ou obra, an\u00e1lise t\u00e9cnica e jur\u00eddica, emiss\u00e3o, reemiss\u00e3o, altera\u00e7\u00e3o, transfer\u00eancia e renegocia\u00e7\u00e3o de contrato, emiss\u00e3o e reemiss\u00e3o do termo de quita\u00e7\u00e3o e demais servi\u00e7os relacionados a cr\u00e9dito imobili\u00e1rio.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6421200",
+            "6422100",
+            "6423900",
+            "6424701",
+            "6424703",
+            "6424704",
+            "6431000",
+            "6435201",
+            "6435202",
+            "6435203",
+            "6499904",
+            "6619399"
+        ]
+    },
+    "16.01": {
+        "descricao": "Servi\u00e7os de transporte coletivo municipal rodovi\u00e1rio, metrovi\u00e1rio, ferrovi\u00e1rio e aquavi\u00e1rio de passageiros.",
+        "aliquota": "5,00",
+        "servicos": [
+            "4912402",
+            "4912403",
+            "4921301",
+            "4921302",
+            "4923001",
+            "4923002",
+            "4924800",
+            "4929901",
+            "4929902",
+            "4929903",
+            "4930202",
+            "4930203",
+            "4930204",
+            "4940000",
+            "4950700",
+            "5021101",
+            "5022001",
+            "5091201",
+            "5099801",
+            "5112999",
+            "5229001",
+            "5229002",
+            "7711000",
+            "7732201"
+        ]
+    },
+    "16.02": {
+        "descricao": "Outros servi\u00e7os de transporte de natureza municipal.",
+        "aliquota": "5,00",
+        "servicos": [
+            "4922102",
+            "4929999",
+            "4930201",
+            "4930203",
+            "4930204",
+            "4940000",
+            "5021101",
+            "5091201"
+        ]
+    },
+    "17.01": {
+        "descricao": "Assessoria ou consultoria de qualquer natureza, n\u00e3o contida em outros itens desta lista; an\u00e1lise, exame, pesquisa, coleta, compila\u00e7\u00e3o e fornecimento de dados e informa\u00e7\u00f5es de qualquer natureza, inclusive cadastro e similares.",
+        "aliquota": "3,00",
+        "servicos": [
+            "162899",
+            "311604",
+            "312404",
+            "321305",
+            "4616800",
+            "5229001",
+            "6399200",
+            "6621502",
+            "6920601",
+            "6920602",
+            "7020400",
+            "7119703",
+            "7319004",
+            "7319099",
+            "7320300",
+            "7490103",
+            "7490199",
+            "7740300",
+            "8211300",
+            "8219999",
+            "8220200",
+            "8299701",
+            "8299707",
+            "8550302",
+            "8660700",
+            "9430800",
+            "9609299"
+        ]
+    },
+    "17.02": {
+        "descricao": "Datilografia, digita\u00e7\u00e3o, estenografia, expediente, secretaria em geral, resposta aud\u00edvel, reda\u00e7\u00e3o, edi\u00e7\u00e3o, interpreta\u00e7\u00e3o, revis\u00e3o, tradu\u00e7\u00e3o, apoio e infra-estrutura administrativa e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "3329501",
+            "5229001",
+            "5811500",
+            "5812300",
+            "5813100",
+            "5819100",
+            "5821200",
+            "5822100",
+            "5823900",
+            "5829800",
+            "6311900",
+            "6911702",
+            "6920601",
+            "7020400",
+            "7490101",
+            "7490199",
+            "8211300",
+            "8219901",
+            "8219999",
+            "8220200",
+            "8299703",
+            "8299799",
+            "8550302",
+            "9002701",
+            "9609299"
+        ]
+    },
+    "17.03": {
+        "descricao": "Planejamento, coordena\u00e7\u00e3o, programa\u00e7\u00e3o ou organiza\u00e7\u00e3o t\u00e9cnica, financeira ou administrativa.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6619399",
+            "6621502",
+            "7020400",
+            "8211300",
+            "9609299"
+        ]
+    },
+    "17.04": {
+        "descricao": "Recrutamento, agenciamento, sele\u00e7\u00e3o e coloca\u00e7\u00e3o de m\u00e3o-de-obra.",
+        "aliquota": "5,00",
+        "servicos": [
+            "7020400",
+            "7319002",
+            "7810800",
+            "7820500",
+            "8211300",
+            "8219999",
+            "8299701",
+            "9609299"
+        ]
+    },
+    "17.05": {
+        "descricao": "Fornecimento de m\u00e3o-de-obra, mesmo em car\u00e1ter tempor\u00e1rio, inclusive de empregados ou trabalhadores, avulsos ou tempor\u00e1rios, contratados pelo prestador de servi\u00e7o.",
+        "aliquota": "5,00",
+        "servicos": [
+            "1011205",
+            "1012104",
+            "162899",
+            "3811400",
+            "3812200",
+            "4321500",
+            "5250805",
+            "5510801",
+            "6920601",
+            "7020400",
+            "7112000",
+            "7312200",
+            "7810800",
+            "7820500",
+            "7830200",
+            "8111700",
+            "8219999",
+            "8230001",
+            "8230002",
+            "8292000",
+            "8299707",
+            "8299799",
+            "8550302",
+            "8660700",
+            "9609299",
+            "9700500"
+        ]
+    },
+    "17.06": {
+        "descricao": "Propaganda e publicidade, inclusive promo\u00e7\u00e3o de vendas, planejamento de campanhas ou sistemas de publicidade, elabora\u00e7\u00e3o de desenhos, textos e demais materiais publicit\u00e1rios.",
+        "aliquota": "5,00",
+        "servicos": [
+            "5911102",
+            "6920601",
+            "7311400",
+            "7319001",
+            "7319002",
+            "7319003",
+            "7319099",
+            "8219999",
+            "8291100",
+            "9609299"
+        ]
+    },
+    "17.08": {
+        "descricao": "Franquia (franchising).",
+        "aliquota": "3,00",
+        "servicos": [
+            "5310502",
+            "7740300"
+        ]
+    },
+    "17.09": {
+        "descricao": "Per\u00edcias, laudos, exames t\u00e9cnicos e an\u00e1lises t\u00e9cnicas.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6399200",
+            "6621501",
+            "6911702",
+            "6920602",
+            "7112000",
+            "7119704",
+            "7120100"
+        ]
+    },
+    "17.10": {
+        "descricao": "Planejamento, organiza\u00e7\u00e3o e administra\u00e7\u00e3o de feiras, exposi\u00e7\u00f5es, congressos e cong\u00eaneres.",
+        "aliquota": "4,00",
+        "servicos": [
+            "7020400",
+            "7112000",
+            "8111700",
+            "8211300",
+            "8219999",
+            "8230001",
+            "9609299"
+        ]
+    },
+    "17.11": {
+        "descricao": "Organiza\u00e7\u00e3o de festas e recep\u00e7\u00f5es; buf\u00ea (exceto o fornecimento de alimenta\u00e7\u00e3o e bebidas, que fica sujeito ao ICMS).",
+        "aliquota": "3,00",
+        "servicos": [
+            "5510801",
+            "5620102",
+            "8230001"
+        ]
+    },
+    "17.12": {
+        "descricao": "Administra\u00e7\u00e3o em geral, inclusive de bens e neg\u00f3cios de terceiros.",
+        "aliquota": "4,00",
+        "servicos": [
+            "6493000",
+            "6611801",
+            "6611802",
+            "6611803",
+            "6611804",
+            "6630400",
+            "6821801",
+            "6822600",
+            "6920601",
+            "7740300",
+            "8211300",
+            "8219999",
+            "8411600",
+            "8660700",
+            "9609299"
+        ]
+    },
+    "17.13": {
+        "descricao": "Leil\u00e3o e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "8299704"
+        ]
+    },
+    "17.14": {
+        "descricao": "Advocacia.",
+        "aliquota": "4,00",
+        "servicos": [
+            "6911701"
+        ]
+    },
+    "17.15": {
+        "descricao": "Arbitragem de qualquer esp\u00e9cie, inclusive jur\u00eddica.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6911702"
+        ]
+    },
+    "17.16": {
+        "descricao": "Auditoria.",
+        "aliquota": "4,00",
+        "servicos": [
+            "6621501",
+            "6621502",
+            "6920602"
+        ]
+    },
+    "17.17": {
+        "descricao": "An\u00e1lise de Organiza\u00e7\u00e3o e M\u00e9todos.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7020400"
+        ]
+    },
+    "17.18": {
+        "descricao": "Atu\u00e1ria e c\u00e1lculos t\u00e9cnicos de qualquer natureza.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6621502"
+        ]
+    },
+    "17.19": {
+        "descricao": "Contabilidade, inclusive servi\u00e7os t\u00e9cnicos e auxiliares.",
+        "aliquota": "4,00",
+        "servicos": [
+            "6920601",
+            "7319002",
+            "8211300",
+            "9609299"
+        ]
+    },
+    "17.20": {
+        "descricao": "Consultoria e assessoria econ\u00f4mica ou financeira.",
+        "aliquota": "4,00",
+        "servicos": [
+            "6612605",
+            "6621502",
+            "7020400"
+        ]
+    },
+    "17.21": {
+        "descricao": "Estat\u00edstica.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7320300",
+            "7490199"
+        ]
+    },
+    "17.22": {
+        "descricao": "Cobran\u00e7a em geral.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6920601",
+            "8211300",
+            "8291100"
+        ]
+    },
+    "17.23": {
+        "descricao": "Assessoria, an\u00e1lise, avalia\u00e7\u00e3o, atendimento, consulta, cadastro, sele\u00e7\u00e3o, gerenciamento de informa\u00e7\u00f5es, administra\u00e7\u00e3o de contas a receber ou a pagar e em geral, relacionados a opera\u00e7\u00f5es de faturiza\u00e7\u00e3o (factoring).",
+        "aliquota": "3,00",
+        "servicos": [
+            "6491300"
+        ]
+    },
+    "17.24": {
+        "descricao": "Apresenta\u00e7\u00e3o de palestras, confer\u00eancias, semin\u00e1rios e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8299799",
+            "8599699"
+        ]
+    },
+    "17.25": {
+        "descricao": "Inser\u00e7\u00e3o de textos, desenhos e outros materiais de propaganda e publicidade, em qualquer meio (exceto em livros, jornais, peri\u00f3dicos e nas modalidades de servi\u00e7os de radiodifus\u00e3o sonora e de sons e imagens de recep\u00e7\u00e3o livre e gratuita).",
+        "aliquota": "3,00",
+        "servicos": []
+    },
+    "18.01": {
+        "descricao": "Servi\u00e7os de regula\u00e7\u00e3o de sinistros vinculados a contratos de seguros; inspe\u00e7\u00e3o e avalia\u00e7\u00e3o de riscos para cobertura de contratos de seguros; preven\u00e7\u00e3o e ger\u00eancia de riscos segur\u00e1veis e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6621501",
+            "6629100"
+        ]
+    },
+    "19.01": {
+        "descricao": "Servi\u00e7os de distribui\u00e7\u00e3o e venda de bilhetes e demais produtos de loteria, bingos, cart\u00f5es, pules ou cupons de apostas, sorteios, pr\u00eamios, inclusive os decorrentes de t\u00edtulos de capitaliza\u00e7\u00e3o e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "8299706",
+            "9200301",
+            "9200399"
+        ]
+    },
+    "20.01": {
+        "descricao": "Servi\u00e7os portu\u00e1rios, ferroportu\u00e1rios, utiliza\u00e7\u00e3o de porto, movimenta\u00e7\u00e3o de passageiros, reboque de embarca\u00e7\u00f5es, rebocador escoteiro, atraca\u00e7\u00e3o, desatraca\u00e7\u00e3o, servi\u00e7os de praticagem, capatazia, armazenagem de qualquer natureza, servi\u00e7os acess\u00f3rios, movimenta\u00e7\u00e3o de mercadorias, servi\u00e7os de apoio mar\u00edtimo, de movimenta\u00e7\u00e3o ao largo, servi\u00e7os de armadores, estiva, confer\u00eancia, log\u00edstica e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "311604",
+            "312404",
+            "321305",
+            "5030102",
+            "5211701",
+            "5211799",
+            "5212500",
+            "5231101",
+            "5231102",
+            "5239700",
+            "5250805"
+        ]
+    },
+    "20.02": {
+        "descricao": "Servi\u00e7os aeroportu\u00e1rios, utiliza\u00e7\u00e3o de aeroporto, movimenta\u00e7\u00e3o de passageiros, armazenagem de qualquer natureza, capatazia, movimenta\u00e7\u00e3o de aeronaves, servi\u00e7os de apoio aeroportu\u00e1rios, servi\u00e7os acess\u00f3rios, movimenta\u00e7\u00e3o de mercadorias, log\u00edstica e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "5240199",
+            "5250805"
+        ]
+    },
+    "20.03": {
+        "descricao": "Servi\u00e7os de terminais rodovi\u00e1rios, ferrovi\u00e1rios, metrovi\u00e1rios, movimenta\u00e7\u00e3o de passageiros, mercadorias, inclusive suas opera\u00e7\u00f5es, log\u00edstica e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4930201",
+            "4930203",
+            "4930204",
+            "5222200",
+            "5229099",
+            "5250805"
+        ]
+    },
+    "21.01": {
+        "descricao": "Servi\u00e7os de registros p\u00fablicos, cartor\u00e1rios e notariais.",
+        "aliquota": "4,00",
+        "servicos": [
+            "6912500"
+        ]
+    },
+    "22.01": {
+        "descricao": "Servi\u00e7os de explora\u00e7\u00e3o de rodovia mediante cobran\u00e7a de pre\u00e7o ou ped\u00e1gio dos usu\u00e1rios, envolvendo execu\u00e7\u00e3o de servi\u00e7os de conserva\u00e7\u00e3o, manuten\u00e7\u00e3o, melhoramentos para adequa\u00e7\u00e3o de capacidade e seguran\u00e7a de tr\u00e2nsito, opera\u00e7\u00e3o, monitora\u00e7\u00e3o, assist\u00eancia aos usu\u00e1rios e outros servi\u00e7os definidos em contratos, atos de concess\u00e3o ou de permiss\u00e3o ou em   normas oficiais.",
+        "aliquota": "4,00",
+        "servicos": [
+            "5221400"
+        ]
+    },
+    "23.01": {
+        "descricao": "Servi\u00e7os de programa\u00e7\u00e3o e comunica\u00e7\u00e3o visual, desenho industrial e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6010100",
+            "7410201",
+            "7490199",
+            "8299799"
+        ]
+    },
+    "24.01": {
+        "descricao": "Servi\u00e7os de chaveiros, confec\u00e7\u00e3o de carimbos, placas, sinaliza\u00e7\u00e3o visual, banners, adesivos e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "4329101",
+            "4330404",
+            "7490103",
+            "7490199",
+            "8299703",
+            "8299799",
+            "9529102"
+        ]
+    },
+    "25.01": {
+        "descricao": "Funerais, inclusive fornecimento de caix\u00e3o, urna ou esquifes; aluguel de capela; transporte do corpo cadav\u00e9rico; fornecimento de flores, coroas e outros paramentos; desembara\u00e7o de certid\u00e3o de \u00f3bito; fornecimento de v\u00e9u, essa e outros adornos; embalsamento, embelezamento, conserva\u00e7\u00e3o ou restaura\u00e7\u00e3o de cad\u00e1veres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "9603303",
+            "9603304",
+            "9603305",
+            "9603399"
+        ]
+    },
+    "25.02": {
+        "descricao": "Translado intramunicipal e crema\u00e7\u00e3o de corpos e partes de corpos cadav\u00e9ricos.",
+        "aliquota": "5,00",
+        "servicos": [
+            "9603302"
+        ]
+    },
+    "25.03": {
+        "descricao": "Planos ou conv\u00eanio funer\u00e1rios.",
+        "aliquota": "5,00",
+        "servicos": [
+            "6511102",
+            "9603304"
+        ]
+    },
+    "25.04": {
+        "descricao": "Manuten\u00e7\u00e3o e conserva\u00e7\u00e3o de jazigos e cemit\u00e9rios.",
+        "aliquota": "5,00",
+        "servicos": [
+            "9603301"
+        ]
+    },
+    "25.05": {
+        "descricao": "Cess\u00e3o de uso de espa\u00e7os em cemit\u00e9rios para sepultamento.",
+        "aliquota": "5,00",
+        "servicos": [
+            "9603301"
+        ]
+    },
+    "26.01": {
+        "descricao": "Servi\u00e7os de coleta, remessa ou entrega de correspond\u00eancias, documentos, objetos, bens ou valores, inclusive pelos correios e suas ag\u00eancias franqueadas; courrier e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "5310501",
+            "5310502",
+            "5320201",
+            "5320202",
+            "8012900"
+        ]
+    },
+    "27.01": {
+        "descricao": "Servi\u00e7os de assist\u00eancia social.",
+        "aliquota": "2,00",
+        "servicos": [
+            "8800600",
+            "9430800",
+            "9499500"
+        ]
+    },
+    "28.01": {
+        "descricao": "Servi\u00e7os de avalia\u00e7\u00e3o de bens e servi\u00e7os de qualquer natureza.",
+        "aliquota": "3,00",
+        "servicos": [
+            "6621501",
+            "6821801",
+            "7112000",
+            "7490199"
+        ]
+    },
+    "29.01": {
+        "descricao": "Servi\u00e7os de biblioteconomia.",
+        "aliquota": "3,00",
+        "servicos": [
+            "9101500"
+        ]
+    },
+    "30.01": {
+        "descricao": "Servi\u00e7os de biologia, biotecnologia e qu\u00edmica.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7210000",
+            "8640202"
+        ]
+    },
+    "31.01": {
+        "descricao": "Servi\u00e7os t\u00e9cnicos em edifica\u00e7\u00f5es, eletr\u00f4nica, eletrot\u00e9cnica, mec\u00e2nica, telecomunica\u00e7\u00f5es e cong\u00eaneres.",
+        "aliquota": "5,00",
+        "servicos": [
+            "3321000",
+            "4322301",
+            "4322302",
+            "4329101",
+            "4520003",
+            "7119799"
+        ]
+    },
+    "32.01": {
+        "descricao": "Servi\u00e7os de desenhos t\u00e9cnicos.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7119703"
+        ]
+    },
+    "33.01": {
+        "descricao": "Servi\u00e7os de desembara\u00e7o aduaneiro, comiss\u00e1rios, despachantes e cong\u00eaneres.",
+        "aliquota": "3,00",
+        "servicos": [
+            "5250801",
+            "5250802"
+        ]
+    },
+    "34.01": {
+        "descricao": "Servi\u00e7os de investiga\u00e7\u00f5es particulares, detetives e cong\u00eaneres.",
+        "aliquota": "4,00",
+        "servicos": [
+            "8030700"
+        ]
+    },
+    "35.01": {
+        "descricao": "Servi\u00e7os de reportagem, assessoria de imprensa, jornalismo e rela\u00e7\u00f5es p\u00fablicas.",
+        "aliquota": "4,00",
+        "servicos": [
+            "7020400",
+            "9001999"
+        ]
+    },
+    "36.01": {
+        "descricao": "Servi\u00e7os de meteorologia.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7490199"
+        ]
+    },
+    "37.01": {
+        "descricao": "Servi\u00e7os de artistas, atletas, modelos e manequins.",
+        "aliquota": "3,00",
+        "servicos": [
+            "7490105"
+        ]
+    },
+    "38.01": {
+        "descricao": "Servi\u00e7os de museologia.",
+        "aliquota": "3,00",
+        "servicos": [
+            "9102301"
+        ]
+    },
+    "39.01": {
+        "descricao": "Servi\u00e7os de ourivesaria e lapida\u00e7\u00e3o (quando o material for fornecido pelo tomador do servi\u00e7o).",
+        "aliquota": "3,00",
+        "servicos": [
+            "3211601",
+            "7410201",
+            "9529106"
+        ]
+    },
+    "40.01": {
+        "descricao": "Obras de arte sob encomenda.",
+        "aliquota": "3,00",
+        "servicos": [
+            "9002701"
+        ]
+    }
+}
