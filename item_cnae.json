@@ -2508,10 +2508,7 @@
         "descricao": "Servi\u00e7os de ourivesaria e lapida\u00e7\u00e3o (quando o material for fornecido pelo tomador do servi\u00e7o).",
         "aliquota": "3,00",
         "servicos": [
-            "3211601",
-            "7410201",
-            "9529106"
-        ]
+            "3211601"]
     },
     "40.01": {
         "descricao": "Obras de arte sob encomenda.",
