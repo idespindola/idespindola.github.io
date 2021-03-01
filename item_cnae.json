@@ -1840,7 +1840,9 @@
     "17.25": {
         "descricao": "Inser\u00e7\u00e3o de textos, desenhos e outros materiais de propaganda e publicidade, em qualquer meio (exceto em livros, jornais, peri\u00f3dicos e nas modalidades de servi\u00e7os de radiodifus\u00e3o sonora e de sons e imagens de recep\u00e7\u00e3o livre e gratuita).",
         "aliquota": "3,00",
-        "servicos": []
+        "servicos": [
+            "7312200"
+        ]
     },
     "18.01": {
         "descricao": "Servi\u00e7os de regula\u00e7\u00e3o de sinistros vinculados a contratos de seguros; inspe\u00e7\u00e3o e avalia\u00e7\u00e3o de riscos para cobertura de contratos de seguros; preven\u00e7\u00e3o e ger\u00eancia de riscos segur\u00e1veis e cong\u00eaneres.",
