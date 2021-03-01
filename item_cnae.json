@@ -64,7 +64,9 @@
     "01.09": {
         "descricao": "Disponibiliza\u00e7\u00e3o, sem cess\u00e3o definitiva, de conte\u00fados de \u00e1udio, v\u00eddeo, imagem e texto por meio da internet, respeitada a imunidade de livros, jornais e peri\u00f3dicos (exceto a distribui\u00e7\u00e3o de conte\u00fados pelas prestadoras de Servi\u00e7o de Acesso Condicionado, de que trata a Lei no 12.485, de 12 de setembro de 2011, sujeita ao ICMS).",
         "aliquota": "3,00",
-        "servicos": []
+        "servicos": [
+            "6319400"
+        ]
     },
     "02.01": {
         "descricao": "Servi\u00e7os de pesquisas e desenvolvimento de qualquer natureza.",
