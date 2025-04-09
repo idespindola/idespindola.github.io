@@ -16,8 +16,6 @@ website:
         text: Projetos
       - href: artigos.qmd
         text: Artigos
-      - href: notebooks.qmd
-        text: Notebooks
   page-footer:
     center: "© 2025 Igor Espindola · Contador & Fiscal de Tributos"
 
