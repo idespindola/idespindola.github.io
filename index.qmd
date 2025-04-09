@@ -1,0 +1,16 @@
+---
+title: "Igor Espindola"
+format: html
+---
+
+# 👋 Olá! Sou Igor Espindola
+
+Contador registrado no CRC-RJ e Fiscal de Tributos em Miracema/RJ. Especialista em gestão tributária municipal, com atuação estratégica orientada a dados e automações com Python.
+
+## 🛠️ Áreas de Atuação
+
+- Gestão Fiscal e Contábil
+- Fiscalização de ISS
+- Análise de Dados com Python
+- Projetos com PGDAS-D, NFS-e e DECRED
+- Implantação de Sistemas Inteligentes para Municípios

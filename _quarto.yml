@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Igor Espindola"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+      - href: about.qmd
+        text: Sobre
+
+format:
+  html:
+    theme: cosmo
+    toc: true
