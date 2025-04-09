@@ -12,6 +12,8 @@ website:
         text: Início
       - href: about.qmd
         text: Sobre
+      - href: projetos.qmd
+        text: Projetos
   page-footer:
     center: "© 2025 Igor Espindola · Contador & Fiscal de Tributos"
 

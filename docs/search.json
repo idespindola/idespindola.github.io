@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Igor Espindola",
+    "objectID": "projetos.html",
+    "href": "projetos.html",
+    "title": "Projetos",
     "section": "",
-    "text": "Contador registrado no CRC-RJ e Fiscal de Tributos em Miracema/RJ. Especialista em gestão tributária municipal, com atuação estratégica orientada a dados e automações com Python.\n\n\n\nGestão Fiscal e Contábil\nFiscalização de ISS\nAnálise de Dados com Python\nProjetos com PGDAS-D, NFS-e e DECRED\nImplantação de Sistemas Inteligentes para Municípios"
+    "text": "Aqui estão alguns projetos que desenvolvi, tanto na área contábil quanto no setor público, com foco em automação, fiscalização e dados.\n\n\n\n Relação do Contador com a Tecnologia: Uso da Codificação para Automatizar Tarefas\n\nNeste trabalho, mostro como o uso de Python pode transformar a prática contábil, reduzindo erros operacionais e liberando tempo para decisões estratégicas.\nDefendo que a automação é o futuro da contabilidade.\n\n\n\n\n\n\nSistema desenvolvido com foco na fiscalização inteligente do ISS, usando cruzamento automatizado de dados do PGDAS-D, NFS-e e DECRED.\nSistema de Controle e Análise Tributária do ISS Registro INPI: BR512024005264-0\n\n\nImplantado em prefeituras como Miracema-RJ e Areal-RJ\n\n\nSe quiser saber mais ou implementar algo semelhante, entre em contato:\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
   },
   {
-    "objectID": "index.html#áreas-de-atuação",
-    "href": "index.html#áreas-de-atuação",
-    "title": "Igor Espindola",
+    "objectID": "projetos.html#tcc-ufrj-contabilidade-código",
+    "href": "projetos.html#tcc-ufrj-contabilidade-código",
+    "title": "Projetos",
     "section": "",
-    "text": "Gestão Fiscal e Contábil\nFiscalização de ISS\nAnálise de Dados com Python\nProjetos com PGDAS-D, NFS-e e DECRED\nImplantação de Sistemas Inteligentes para Municípios"
+    "text": "Relação do Contador com a Tecnologia: Uso da Codificação para Automatizar Tarefas\n\nNeste trabalho, mostro como o uso de Python pode transformar a prática contábil, reduzindo erros operacionais e liberando tempo para decisões estratégicas.\nDefendo que a automação é o futuro da contabilidade."
+  },
+  {
+    "objectID": "projetos.html#sistema-de-controle-e-análise-tributária-do-iss",
+    "href": "projetos.html#sistema-de-controle-e-análise-tributária-do-iss",
+    "title": "Projetos",
+    "section": "",
+    "text": "Sistema desenvolvido com foco na fiscalização inteligente do ISS, usando cruzamento automatizado de dados do PGDAS-D, NFS-e e DECRED.\nSistema de Controle e Análise Tributária do ISS Registro INPI: BR512024005264-0\n\n\nImplantado em prefeituras como Miracema-RJ e Areal-RJ\n\n\nSe quiser saber mais ou implementar algo semelhante, entre em contato:\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
   },
   {
     "objectID": "about.html",
@@ -25,6 +32,20 @@
     "href": "about.html#contato",
     "title": "Sobre Mim",
     "section": "📎 Contato",
-    "text": "📎 Contato\n\n📧 igorespindola91@gmail.com\n\n📍 Miracema, RJ\n\n WhatsApp\n Instagram |  LinkedIn"
+    "text": "📎 Contato\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Igor Espindola",
+    "section": "",
+    "text": "Contador registrado no CRC-RJ e Fiscal de Tributos em Miracema/RJ. Especialista em gestão tributária municipal, com atuação estratégica orientada a dados e automações com Python.\n\n\n\nGestão Fiscal e Contábil\nFiscalização de ISS\nAnálise de Dados com Python\nProjetos com PGDAS-D, NFS-e e DECRED\nImplantação de Sistemas Inteligentes para Municípios"
+  },
+  {
+    "objectID": "index.html#áreas-de-atuação",
+    "href": "index.html#áreas-de-atuação",
+    "title": "Igor Espindola",
+    "section": "",
+    "text": "Gestão Fiscal e Contábil\nFiscalização de ISS\nAnálise de Dados com Python\nProjetos com PGDAS-D, NFS-e e DECRED\nImplantação de Sistemas Inteligentes para Municípios"
   }
 ]
