@@ -17,3 +17,8 @@ Aqui compartilho reflexões e conteúdos técnicos sobre contabilidade, gestão 
 
 ---
  
+### 📄 [Autorização de Acesso à Declaração do IRPF](artigos/autorizacao_dirpf.qmd)
+
+> Compartilhe com segurança, sem informar sua senha GOV.BR.
+
+---

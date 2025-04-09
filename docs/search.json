@@ -35,39 +35,18 @@
     "text": "Entre em contato:\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
   },
   {
-    "objectID": "notebooks/widget_demo.html",
-    "href": "notebooks/widget_demo.html",
-    "title": "💡 Demonstração de Widgets com Python",
-    "section": "",
-    "text": "Este é um exemplo simples de uso de widgets interativos com ipywidgets.\nVocê pode usar este notebook como demonstração ou base para experimentações futuras.\n\nimport ipywidgets as widgets\nfrom IPython.display import display\n\nslider = widgets.IntSlider(value=5, min=0, max=10, step=1, description='Valor:')\ndisplay(slider)\n\n\n\n\n\ntexto = widgets.Text(value='Olá!')\ndisplay(texto)\n\n\n\n\n\nbotao = widgets.Button(description='Clique aqui')\noutput = widgets.Output()\n\ndef ao_clicar(b):\n    with output:\n        print(f\"Você digitou: {texto.value} e escolheu: {slider.value}\")\n\nbotao.on_click(ao_clicar)\ndisplay(botao, output)"
-  },
-  {
     "objectID": "artigos.html",
     "href": "artigos.html",
     "title": "Artigos",
     "section": "",
-    "text": "Aqui compartilho reflexões e conteúdos técnicos sobre contabilidade, gestão tributária, fiscalização e automação com Python.\n\n\n\n\n\n\nUma análise prática sobre como tarefas repetitivas podem ser automatizadas com código, aumentando a eficiência e a precisão nas rotinas contábeis."
+    "text": "Aqui compartilho reflexões e conteúdos técnicos sobre contabilidade, gestão tributária, fiscalização e automação com Python.\n\n\n\n\n\n\nUma análise prática sobre como tarefas repetitivas podem ser automatizadas com código, aumentando a eficiência e a precisão nas rotinas contábeis.\n\n\n\n\n\n\nCompartilhe com segurança, sem informar sua senha GOV.BR."
   },
   {
     "objectID": "artigos.html#artigos-publicados",
     "href": "artigos.html#artigos-publicados",
     "title": "Artigos",
     "section": "",
-    "text": "Uma análise prática sobre como tarefas repetitivas podem ser automatizadas com código, aumentando a eficiência e a precisão nas rotinas contábeis."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Sobre Mim",
-    "section": "",
-    "text": "Sou Contador e Fiscal de Tributos, com atuação desde 2011 no setor público. Tenho formação em Matemática (UFF), Ciências Contábeis (UFRJ) e especialização em Direito Tributário. Desenvolvi o Sistema de Controle e Análise Tributária do ISS, registrado no INPI, para modernização da gestão tributária municipal."
-  },
-  {
-    "objectID": "about.html#contato",
-    "href": "about.html#contato",
-    "title": "Sobre Mim",
-    "section": "📎 Contato",
-    "text": "📎 Contato\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
+    "text": "Uma análise prática sobre como tarefas repetitivas podem ser automatizadas com código, aumentando a eficiência e a precisão nas rotinas contábeis.\n\n\n\n\n\n\nCompartilhe com segurança, sem informar sua senha GOV.BR."
   },
   {
     "objectID": "artigos/automacao-python-contabilidade.html",
@@ -84,6 +63,125 @@
     "text": "Redução de erros manuais\nMais tempo para análise estratégica\nRelatórios prontos com dados integrados"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre Mim",
+    "section": "",
+    "text": "Sou Contador e Fiscal de Tributos, com atuação desde 2011 no setor público. Tenho formação em Matemática (UFF), Ciências Contábeis (UFRJ) e especialização em Direito Tributário. Desenvolvi o Sistema de Controle e Análise Tributária do ISS, registrado no INPI, para modernização da gestão tributária municipal."
+  },
+  {
+    "objectID": "about.html#contato",
+    "href": "about.html#contato",
+    "title": "Sobre Mim",
+    "section": "📎 Contato",
+    "text": "📎 Contato\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
+  },
+  {
+    "objectID": "artigos/slides.html#autorização-de-acesso-ao-irpf",
+    "href": "artigos/slides.html#autorização-de-acesso-ao-irpf",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "🔐 Autorização de Acesso ao IRPF",
+    "text": "🔐 Autorização de Acesso ao IRPF\nCompartilhe com segurança, sem informar sua senha GOV.BR.\n➡️ Veja o passo a passo completo!"
+  },
+  {
+    "objectID": "artigos/slides.html#acesse-o-portal-da-receita",
+    "href": "artigos/slides.html#acesse-o-portal-da-receita",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "1️⃣ Acesse o Portal da Receita",
+    "text": "1️⃣ Acesse o Portal da Receita\n🌐 Acesse: https://mir.receita.fazenda.gov.br/portalmir\n🔑 Faça login com sua conta GOV.BR nível Prata ou Ouro.\n💡 Caso ainda não tenha, eleve seu nível com validação bancária ou reconhecimento facial."
+  },
+  {
+    "objectID": "artigos/slides.html#vá-em-autorização-de-acesso",
+    "href": "artigos/slides.html#vá-em-autorização-de-acesso",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "2️⃣ Vá em “Autorização de Acesso”",
+    "text": "2️⃣ Vá em “Autorização de Acesso”\n📍 No menu à direita, clique em:\n“Autorização de Acesso”\n📂 Está dentro da seção “Serviços do IRPF”"
+  },
+  {
+    "objectID": "artigos/slides.html#preencha-os-dados",
+    "href": "artigos/slides.html#preencha-os-dados",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "3️⃣ Preencha os dados",
+    "text": "3️⃣ Preencha os dados\n✍️ Informe:\n\nO CPF da pessoa autorizada\nA data de validade da autorização\n\n🛡️ Você mantém total controle sobre o acesso."
+  },
+  {
+    "objectID": "artigos/slides.html#confirme-a-autorização",
+    "href": "artigos/slides.html#confirme-a-autorização",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "4️⃣ Confirme a autorização",
+    "text": "4️⃣ Confirme a autorização\n🔎 O sistema exibirá:\n“Deseja autorizar [Nome do terceiro]?”\n✅ Clique em “Sim” para confirmar a autorização."
+  },
+  {
+    "objectID": "artigos/slides.html#acesso-concedido",
+    "href": "artigos/slides.html#acesso-concedido",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "✅ Acesso concedido!",
+    "text": "✅ Acesso concedido!\nA pessoa autorizada poderá acessar as declarações com o próprio GOV.BR.\n🔁 Você pode revogar o acesso a qualquer momento.\n🔒 Segurança garantida!"
+  },
+  {
+    "objectID": "artigos/slides.html#final",
+    "href": "artigos/slides.html#final",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "📲 Final",
+    "text": "📲 Final\n💾 Salve este guia para usar no próximo IR!\n📤 Compartilhe com quem precisa:\n\nFamiliares\nColegas\n\n📌 @idespindola | Contabilidade com tecnologia"
+  },
+  {
+    "objectID": "artigos/autorizacao_dirpf.html",
+    "href": "artigos/autorizacao_dirpf.html",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "",
+    "text": "Compartilhe com segurança, sem informar sua senha GOV.BR.\n➡️ Veja o passo a passo completo!"
+  },
+  {
+    "objectID": "artigos/autorizacao_dirpf.html#autorização-de-acesso-ao-irpf",
+    "href": "artigos/autorizacao_dirpf.html#autorização-de-acesso-ao-irpf",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "",
+    "text": "Compartilhe com segurança, sem informar sua senha GOV.BR.\n➡️ Veja o passo a passo completo!"
+  },
+  {
+    "objectID": "artigos/autorizacao_dirpf.html#acesse-o-portal-da-receita",
+    "href": "artigos/autorizacao_dirpf.html#acesse-o-portal-da-receita",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "2 1️⃣ Acesse o Portal da Receita",
+    "text": "2 1️⃣ Acesse o Portal da Receita\n🌐 Acesse: https://mir.receita.fazenda.gov.br/portalmir\n🔑 Faça login com sua conta GOV.BR nível Prata ou Ouro.\n💡 Caso ainda não tenha, eleve seu nível com validação bancária ou reconhecimento facial."
+  },
+  {
+    "objectID": "artigos/autorizacao_dirpf.html#vá-em-autorização-de-acesso",
+    "href": "artigos/autorizacao_dirpf.html#vá-em-autorização-de-acesso",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "3 2️⃣ Vá em “Autorização de Acesso”",
+    "text": "3 2️⃣ Vá em “Autorização de Acesso”\n📍 No menu à direita, clique em:\n“Autorização de Acesso”\n📂 Está dentro da seção “Serviços do IRPF”"
+  },
+  {
+    "objectID": "artigos/autorizacao_dirpf.html#preencha-os-dados",
+    "href": "artigos/autorizacao_dirpf.html#preencha-os-dados",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "4 3️⃣ Preencha os dados",
+    "text": "4 3️⃣ Preencha os dados\n✍️ Informe:\n\nO CPF da pessoa autorizada\nA data de validade da autorização\n\n🛡️ Você mantém total controle sobre o acesso."
+  },
+  {
+    "objectID": "artigos/autorizacao_dirpf.html#confirme-a-autorização",
+    "href": "artigos/autorizacao_dirpf.html#confirme-a-autorização",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "5 4️⃣ Confirme a autorização",
+    "text": "5 4️⃣ Confirme a autorização\n🔎 O sistema exibirá:\n“Deseja autorizar [Nome do terceiro]?”\n✅ Clique em “Sim” para confirmar a autorização."
+  },
+  {
+    "objectID": "artigos/autorizacao_dirpf.html#acesso-concedido",
+    "href": "artigos/autorizacao_dirpf.html#acesso-concedido",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "6 ✅ Acesso concedido!",
+    "text": "6 ✅ Acesso concedido!\nA pessoa autorizada poderá acessar as declarações com o próprio GOV.BR.\n🔁 Você pode revogar o acesso a qualquer momento.\n🔒 Segurança garantida!"
+  },
+  {
+    "objectID": "artigos/autorizacao_dirpf.html#final",
+    "href": "artigos/autorizacao_dirpf.html#final",
+    "title": "Autorização de Acesso à Declaração do IRPF",
+    "section": "7 📲 Final",
+    "text": "7 📲 Final\n💾 Salve este guia para usar no próximo IR!\n📤 Compartilhe com quem precisa:\n\nFamiliares\nColegas\n\n📌 @idespindola | Contabilidade com tecnologia"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Igor Espindola",
@@ -96,19 +194,5 @@
     "title": "Igor Espindola",
     "section": "",
     "text": "Gestão Fiscal e Contábil\nFiscalização de ISS\nAnálise de Dados com Python\nProjetos com PGDAS-D, NFS-e e DECRED\nImplantação de Sistemas Inteligentes para Municípios"
-  },
-  {
-    "objectID": "notebooks.html",
-    "href": "notebooks.html",
-    "title": "Igor Espindola",
-    "section": "",
-    "text": "Veja um exemplo de análise com widgets no Jupyter, hospedado via nbviewer:\n👉 Abrir Notebook Interativo"
-  },
-  {
-    "objectID": "notebooks.html#demonstração-interativa-com-jupyter",
-    "href": "notebooks.html#demonstração-interativa-com-jupyter",
-    "title": "Igor Espindola",
-    "section": "",
-    "text": "Veja um exemplo de análise com widgets no Jupyter, hospedado via nbviewer:\n👉 Abrir Notebook Interativo"
   }
 ]
