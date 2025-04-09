@@ -17,6 +17,3 @@ Aqui compartilho reflexões e conteúdos técnicos sobre contabilidade, gestão 
 
 ---
 
-### 📄 [Fiscalização do ISS com base em dados do Simples Nacional](artigos/fiscalizacao-iss-simples.qmd)
-
-> Experiências reais com cruzamentos PGDAS-D, NFS-e e DECRED na gestão tributária municipal, usando ferramentas livres e código aberto.
