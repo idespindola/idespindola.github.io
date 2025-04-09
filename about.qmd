@@ -1,0 +1,16 @@
+---
+title: "Sobre Mim"
+format: html
+---
+
+# Sobre Mim
+
+Sou Contador e Fiscal de Tributos, com atuação desde 2011 no setor público. Tenho formação em Matemática (UFF), Ciências Contábeis (UFRJ) e especialização em Direito Tributário. Desenvolvi o Sistema de Controle e Análise Tributária do ISS, registrado no INPI, para modernização da gestão tributária municipal.
+
+> “Menos horas, mais resultado. A automação é o futuro da contabilidade.”
+
+## 📎 Contato
+
+- 📧 igorespindola91@gmail.com  
+- 📍 Miracema, RJ  
+- 🔗 [Instagram](https://www.instagram.com/idespindola) | [LinkedIn](https://www.linkedin.com/in/idespindola)
