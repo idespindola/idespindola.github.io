@@ -2,4 +2,4 @@
 
 Veja um exemplo de análise com widgets no Jupyter, hospedado via [nbviewer](https://nbviewer.org):
 
-👉 [Abrir Notebook Interativo](https://nbviewer.org/github/idespindola/igor-portfolio/blob/main/notebooks/exemplo.ipynb)
+👉 [Abrir Notebook Interativo](https://nbviewer.org/github/idespindola/idespindola.github.io/blob/main/notebooks/widget_demo.ipynb)
