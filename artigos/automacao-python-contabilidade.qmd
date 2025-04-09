@@ -1,0 +1,14 @@
+---
+title: "Como a automação com Python pode transformar a contabilidade"
+format: html
+---
+
+# Como a automação com Python pode transformar a contabilidade
+
+A automação contábil não é mais tendência: é realidade. Neste artigo, apresento experiências e códigos utilizados para eliminar tarefas repetitivas no meu dia a dia como contador e fiscal de tributos.
+
+## Benefícios observados
+
+- Redução de erros manuais
+- Mais tempo para análise estratégica
+- Relatórios prontos com dados integrados

@@ -1,0 +1,22 @@
+---
+title: "Artigos"
+format: html
+---
+
+# 📝 Artigos
+
+Aqui compartilho reflexões e conteúdos técnicos sobre contabilidade, gestão tributária, fiscalização e automação com Python.
+
+---
+
+## 📌 Artigos publicados
+
+### 📄 [Como a automação com Python pode transformar a contabilidade](artigos/automacao-python-contabilidade.qmd)
+
+> Uma análise prática sobre como tarefas repetitivas podem ser automatizadas com código, aumentando a eficiência e a precisão nas rotinas contábeis.
+
+---
+
+### 📄 [Fiscalização do ISS com base em dados do Simples Nacional](artigos/fiscalizacao-iss-simples.qmd)
+
+> Experiências reais com cruzamentos PGDAS-D, NFS-e e DECRED na gestão tributária municipal, usando ferramentas livres e código aberto.

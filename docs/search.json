@@ -35,6 +35,27 @@
     "text": "Entre em contato:\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
   },
   {
+    "objectID": "notebooks/widget_demo.html",
+    "href": "notebooks/widget_demo.html",
+    "title": "💡 Demonstração de Widgets com Python",
+    "section": "",
+    "text": "Este é um exemplo simples de uso de widgets interativos com ipywidgets.\nVocê pode usar este notebook como demonstração ou base para experimentações futuras.\n\nimport ipywidgets as widgets\nfrom IPython.display import display\n\nslider = widgets.IntSlider(value=5, min=0, max=10, step=1, description='Valor:')\ndisplay(slider)\n\n\ntexto = widgets.Text(value='Olá!')\ndisplay(texto)\n\n\nbotao = widgets.Button(description='Clique aqui')\noutput = widgets.Output()\n\ndef ao_clicar(b):\n    with output:\n        print(f\"Você digitou: {texto.value} e escolheu: {slider.value}\")\n\nbotao.on_click(ao_clicar)\ndisplay(botao, output)"
+  },
+  {
+    "objectID": "artigos.html",
+    "href": "artigos.html",
+    "title": "Artigos",
+    "section": "",
+    "text": "Aqui compartilho reflexões e conteúdos técnicos sobre contabilidade, gestão tributária, fiscalização e automação com Python.\n\n\n\n\n\n\nUma análise prática sobre como tarefas repetitivas podem ser automatizadas com código, aumentando a eficiência e a precisão nas rotinas contábeis.\n\n\n\n\n\n\nExperiências reais com cruzamentos PGDAS-D, NFS-e e DECRED na gestão tributária municipal, usando ferramentas livres e código aberto."
+  },
+  {
+    "objectID": "artigos.html#artigos-publicados",
+    "href": "artigos.html#artigos-publicados",
+    "title": "Artigos",
+    "section": "",
+    "text": "Uma análise prática sobre como tarefas repetitivas podem ser automatizadas com código, aumentando a eficiência e a precisão nas rotinas contábeis.\n\n\n\n\n\n\nExperiências reais com cruzamentos PGDAS-D, NFS-e e DECRED na gestão tributária municipal, usando ferramentas livres e código aberto."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Sobre Mim",
@@ -49,6 +70,20 @@
     "text": "📎 Contato\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
   },
   {
+    "objectID": "artigos/automacao-python-contabilidade.html",
+    "href": "artigos/automacao-python-contabilidade.html",
+    "title": "Como a automação com Python pode transformar a contabilidade",
+    "section": "",
+    "text": "A automação contábil não é mais tendência: é realidade. Neste artigo, apresento experiências e códigos utilizados para eliminar tarefas repetitivas no meu dia a dia como contador e fiscal de tributos.\n\n\n\nRedução de erros manuais\nMais tempo para análise estratégica\nRelatórios prontos com dados integrados"
+  },
+  {
+    "objectID": "artigos/automacao-python-contabilidade.html#benefícios-observados",
+    "href": "artigos/automacao-python-contabilidade.html#benefícios-observados",
+    "title": "Como a automação com Python pode transformar a contabilidade",
+    "section": "",
+    "text": "Redução de erros manuais\nMais tempo para análise estratégica\nRelatórios prontos com dados integrados"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Igor Espindola",
@@ -61,5 +96,19 @@
     "title": "Igor Espindola",
     "section": "",
     "text": "Gestão Fiscal e Contábil\nFiscalização de ISS\nAnálise de Dados com Python\nProjetos com PGDAS-D, NFS-e e DECRED\nImplantação de Sistemas Inteligentes para Municípios"
+  },
+  {
+    "objectID": "notebooks.html",
+    "href": "notebooks.html",
+    "title": "Igor Espindola",
+    "section": "",
+    "text": "Veja um exemplo de análise com widgets no Jupyter, hospedado via nbviewer:\n👉 Abrir Notebook Interativo"
+  },
+  {
+    "objectID": "notebooks.html#demonstração-interativa-com-jupyter",
+    "href": "notebooks.html#demonstração-interativa-com-jupyter",
+    "title": "Igor Espindola",
+    "section": "",
+    "text": "Veja um exemplo de análise com widgets no Jupyter, hospedado via nbviewer:\n👉 Abrir Notebook Interativo"
   }
 ]
