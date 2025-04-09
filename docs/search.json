@@ -4,7 +4,7 @@
     "href": "projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "Aqui estão alguns projetos que desenvolvi, tanto na área contábil quanto no setor público, com foco em automação, fiscalização e dados.\n\n\n\n Relação do Contador com a Tecnologia: Uso da Codificação para Automatizar Tarefas\n\nNeste trabalho, mostro como o uso de Python pode transformar a prática contábil, reduzindo erros operacionais e liberando tempo para decisões estratégicas.\nDefendo que a automação é o futuro da contabilidade.\n\n\n\n\n\n\nSistema desenvolvido com foco na fiscalização inteligente do ISS, usando cruzamento automatizado de dados do PGDAS-D, NFS-e e DECRED.\nSistema de Controle e Análise Tributária do ISS Registro INPI: BR512024005264-0\n\n\nImplantado em prefeituras como Miracema-RJ e Areal-RJ\n\n\nSe quiser saber mais ou implementar algo semelhante, entre em contato:\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
+    "text": "Aqui estão alguns projetos que desenvolvi, tanto na área contábil quanto no setor público, com foco em automação, fiscalização e dados.\n\n\n\n Relação do Contador com a Tecnologia: Uso da Codificação para Automatizar Tarefas\n\nNeste trabalho, mostro como o uso de Python pode transformar a prática contábil, reduzindo erros operacionais e liberando tempo para decisões estratégicas.\nDefendo que a automação é o futuro da contabilidade.\n\n\n\n\n\nSistema próprio desenvolvido para modernização da fiscalização municipal do ISS:\n\nCruzamento automático de dados (PGDAS-D, NFS-e, DECRED)\nGeração de relatórios inteligentes e identificação de inconsistências fiscais\nImplantado em municípios como Miracema e Areal/RJ\nRegistro INPI: BR512024005264-0\n\n\n\n\n\n\n\n\nImplantação do SEI – Sistema Eletrônico de Informações\nImplantação do E-CARTA – Sistema eletrônico de comunicações oficiais\nIntegração REGIN/Junta Comercial via API – Automatização do registro empresarial municipal\n\n\n\n\n\n\nRepresentante dos Municípios no GTAO/CGSN\nGrupo Técnico de Atividades e Ocupações do Simples Nacional – Atuação técnica na compatibilização dos CNAEs ao regime do Simples.\nMembro do CTAT (Conselho Técnico das Administrações Tributárias)\nApoio à modernização, integração e padronização das administrações tributárias municipais.\nAgente de Desenvolvimento Local (SEBRAE-RJ)\nIncentivo à formalização de micro e pequenas empresas, criação de ambiente favorável ao empreendedorismo e políticas públicas locais.\n\n\n\n\n\n\nEntre em contato:\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
   },
   {
     "objectID": "projetos.html#tcc-ufrj-contabilidade-código",
@@ -18,7 +18,21 @@
     "href": "projetos.html#sistema-de-controle-e-análise-tributária-do-iss",
     "title": "Projetos",
     "section": "",
-    "text": "Sistema desenvolvido com foco na fiscalização inteligente do ISS, usando cruzamento automatizado de dados do PGDAS-D, NFS-e e DECRED.\nSistema de Controle e Análise Tributária do ISS Registro INPI: BR512024005264-0\n\n\nImplantado em prefeituras como Miracema-RJ e Areal-RJ\n\n\nSe quiser saber mais ou implementar algo semelhante, entre em contato:\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
+    "text": "Sistema próprio desenvolvido para modernização da fiscalização municipal do ISS:\n\nCruzamento automático de dados (PGDAS-D, NFS-e, DECRED)\nGeração de relatórios inteligentes e identificação de inconsistências fiscais\nImplantado em municípios como Miracema e Areal/RJ\nRegistro INPI: BR512024005264-0"
+  },
+  {
+    "objectID": "projetos.html#projetos-institucionais-na-prefeitura-de-miracema",
+    "href": "projetos.html#projetos-institucionais-na-prefeitura-de-miracema",
+    "title": "Projetos",
+    "section": "",
+    "text": "Implantação do SEI – Sistema Eletrônico de Informações\nImplantação do E-CARTA – Sistema eletrônico de comunicações oficiais\nIntegração REGIN/Junta Comercial via API – Automatização do registro empresarial municipal\n\n\n\n\n\n\nRepresentante dos Municípios no GTAO/CGSN\nGrupo Técnico de Atividades e Ocupações do Simples Nacional – Atuação técnica na compatibilização dos CNAEs ao regime do Simples.\nMembro do CTAT (Conselho Técnico das Administrações Tributárias)\nApoio à modernização, integração e padronização das administrações tributárias municipais.\nAgente de Desenvolvimento Local (SEBRAE-RJ)\nIncentivo à formalização de micro e pequenas empresas, criação de ambiente favorável ao empreendedorismo e políticas públicas locais."
+  },
+  {
+    "objectID": "projetos.html#quer-saber-mais",
+    "href": "projetos.html#quer-saber-mais",
+    "title": "Projetos",
+    "section": "",
+    "text": "Entre em contato:\n\n Email\n WhatsApp\n Instagram |  LinkedIn"
   },
   {
     "objectID": "about.html",

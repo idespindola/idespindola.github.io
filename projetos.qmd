@@ -20,15 +20,41 @@ Aqui estão alguns projetos que desenvolvi, tanto na área contábil quanto no s
 
 ## 🧾 Sistema de Controle e Análise Tributária do ISS
 
-> Sistema desenvolvido com foco na **fiscalização inteligente do ISS**, usando cruzamento automatizado de dados do PGDAS-D, NFS-e e DECRED.  
-> Sistema de Controle e Análise Tributária do ISS
-> **Registro INPI**: BR512024005264-0
+Sistema próprio desenvolvido para modernização da fiscalização municipal do ISS:
 
-- Implantado em prefeituras como Miracema-RJ e Areal-RJ
+- Cruzamento automático de dados (PGDAS-D, NFS-e, DECRED)
+- Geração de relatórios inteligentes e identificação de inconsistências fiscais
+- Implantado em municípios como Miracema e Areal/RJ
+- **Registro INPI**: BR512024005264-0
 
 ---
 
-Se quiser saber mais ou implementar algo semelhante, entre em contato:
+## 🏛️ Projetos Institucionais na Prefeitura de Miracema
+
+### 🚀 Transformação Digital na Gestão Pública
+
+- **Implantação do SEI** – Sistema Eletrônico de Informações
+- **Implantação do E-CARTA** – Sistema eletrônico de comunicações oficiais
+- **Integração REGIN/Junta Comercial via API** – Automatização do registro empresarial municipal
+
+---
+
+### 🧩 Representações Técnicas e Colaborações Estratégicas
+
+- **Representante dos Municípios no GTAO/CGSN**  
+  Grupo Técnico de Atividades e Ocupações do Simples Nacional – Atuação técnica na compatibilização dos CNAEs ao regime do Simples.
+
+- **Membro do CTAT (Conselho Técnico das Administrações Tributárias)**  
+  Apoio à modernização, integração e padronização das administrações tributárias municipais.
+
+- **Agente de Desenvolvimento Local (SEBRAE-RJ)**  
+  Incentivo à formalização de micro e pequenas empresas, criação de ambiente favorável ao empreendedorismo e políticas públicas locais.
+
+---
+
+## 📢 Quer saber mais?
+
+Entre em contato:
 
 - [<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com)
 - [<i class="bi bi-whatsapp"></i> WhatsApp](https://wa.me/5522992486787)
