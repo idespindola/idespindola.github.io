@@ -1,3 +1,5 @@
+lang: pt-BR
+
 project:
   type: website
   output-dir: docs  # necessário para GitHub Pages
