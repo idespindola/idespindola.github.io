@@ -16,4 +16,4 @@ Aqui compartilho reflexões e conteúdos técnicos sobre contabilidade, gestão 
 > Uma análise prática sobre como tarefas repetitivas podem ser automatizadas com código, aumentando a eficiência e a precisão nas rotinas contábeis.
 
 ---
-
+ 
