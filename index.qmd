@@ -11,6 +11,6 @@ Contador registrado no CRC-RJ e Fiscal de Tributos em Miracema/RJ. Especialista 
 
 - Gestão Fiscal e Contábil
 - Fiscalização de ISS
-- Análise de Dados com Python
+- Análise de Dados
 - Projetos com PGDAS-D, NFS-e e DECRED
 - Implantação de Sistemas Inteligentes para Municípios

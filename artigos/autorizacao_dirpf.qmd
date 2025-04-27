@@ -12,21 +12,19 @@ format:
     number-sections: true
     smooth-scroll: true
     page-layout: full
-  revealjs: 
-    output-file: slides.html
-    theme: default
-    column: column-body
-    center: true
-    slide-number: false
-    transition: slide
-    #background-image: Logo.png
-    #footer: "@idespindola"
-    pdf:
-      pdf-max-pages-per-slide: 8
-      pdf-separate-fragments: true
-      pdf-page-height-offset: 1
-  pdf:
-    toc: false
+  # revealjs: 
+  #   output-file: slides.html
+  #   theme: default
+  #   column: column-body
+  #   center: true
+  #   slide-number: false
+  #   transition: slide
+  #   pdf:
+  #     pdf-max-pages-per-slide: 8
+  #     pdf-separate-fragments: true
+  #     pdf-page-height-offset: 1
+  # pdf:
+  #   toc: false
   #pptx:
   #  incremental: true
 ---
