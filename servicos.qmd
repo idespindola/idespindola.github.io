@@ -199,7 +199,7 @@ Procedimentos completos para a constituição da empresa.
 ---
 
 
-## Regularização de Obras junto à Receita Federal  
+## 🧱 Regularização de Obras junto à Receita Federal  
 
 **Descrição:**
 Cadastro no **CNO** e aferição via **SERO**, com possibilidade de aplicação de **decadência tributária** e **redução do valor do INSS** por comprovação técnica.
