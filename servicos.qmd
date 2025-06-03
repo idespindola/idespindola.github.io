@@ -198,6 +198,33 @@ Procedimentos completos para a constituição da empresa.
 
 ---
 
+
+## Regularização de Obras junto à Receita Federal  
+
+**Descrição:**
+Cadastro no **CNO** e aferição via **SERO**, com possibilidade de aplicação de **decadência tributária** e **redução do valor do INSS** por comprovação técnica.
+
+A regularização de obras de construção civil é obrigatória junto à Receita Federal, e envolve duas etapas principais:
+
+- **CNO (Cadastro Nacional de Obras)**  
+  Registro da obra no sistema da Receita Federal para fins fiscais, substituindo o antigo CEI. Etapa essencial para permitir a análise do INSS da obra.
+
+- **SERO (Serviço Eletrônico para Aferição de Obras)**  
+  Etapa em que é feita a aferição da base de cálculo do INSS da obra.
+
+**O que está incluso:**
+
+- Análise completa dos documentos da obra;
+- Cadastro e regularização no CNO;
+- Estudo de decadência tributária;
+- Aplicação de reduções legais com base em documentação técnica ou presunção por padrão da obra;
+- Preenchimento e envio da aferição no SERO;
+- Suporte para emissão de guias de recolhimento.
+
+> **Honorários**: A partir de **R$ 300,00** ou **30% sobre a redução obtida** no valor do imposto apurado (quando aplicável).
+
+---
+
 # 📞 Como Solicitar Proposta
 
 Entre em contato para análise personalizada:
