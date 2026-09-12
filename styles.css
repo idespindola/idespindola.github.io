@@ -292,16 +292,6 @@ a {
   font-weight: 750;
 }
 
-.service-price {
-  display: inline-flex;
-  margin-top: 0.5rem;
-  padding: 0.4rem 0.55rem;
-  border-radius: 6px;
-  background: var(--soft-gold);
-  color: #6a3d12;
-  font-weight: 800;
-}
-
 .pill-note {
   border-left: 3px solid var(--teal);
 }

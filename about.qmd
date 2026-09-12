@@ -12,9 +12,9 @@ format: html
 ::: {.profile-copy}
 <span class="eyebrow">Sobre mim</span>
 
-# Fiscal, contador e construtor de soluções
+# Fiscal, contador e fundador da IDESPINDOLA SISTEMAS
 
-Sou Igor da Silva Espindola, contador registrado no CRC-RJ e Fiscal de Tributos do Município de Miracema/RJ. Atuo desde 2011 no setor público, com foco em gestão tributária municipal, fiscalização de ISS, análise de dados e automação de rotinas.
+Sou Igor da Silva Espindola, contador registrado no CRC-RJ, Fiscal de Tributos Municipal em Miracema/RJ e fundador da IDESPINDOLA SISTEMAS. Atuo desde 2011 no setor público, com foco em gestão tributária municipal, fiscalização de ISS, análise de dados, automação de rotinas e desenvolvimento de sistemas especialistas.
 
 Minha formação passa por Matemática na UFF, Ciências Contábeis na UFRJ e especialização em Direito Tributário. Essa combinação moldou meu jeito de trabalhar: rigor técnico, leitura jurídica cuidadosa e vontade de transformar processos complexos em sistemas mais simples.
 :::
@@ -39,7 +39,7 @@ Quando há base disponível, a decisão precisa ser sustentada por evidência, r
 ::: {.card}
 ### Código como ferramenta
 
-Programação, para mim, é uma extensão da contabilidade e da fiscalização: serve para automatizar, conferir, comparar e documentar.
+Programação, para mim, é uma extensão da contabilidade e da fiscalização: serve para automatizar, conferir, comparar, documentar e transformar conhecimento técnico em sistemas úteis.
 :::
 
 ::: {.card}
@@ -51,6 +51,12 @@ Tenho interesse especial por transformação digital, integração entre órgão
 :::
 :::
 
+::: {.content-block .compact}
+::: {.quote}
+Também gosto de viver fora da tela: café, viagens, momentos em família e a ideia simples de trabalhar bem sem esquecer o que dá sentido ao trabalho.
+:::
+:::
+
 ::: {.content-block}
 ::: {.section-heading}
 ## Formação e atuação
@@ -58,15 +64,33 @@ Tenho interesse especial por transformação digital, integração entre órgão
 
 ::: {.timeline}
 ::: {.timeline-item}
-### Fiscal de Tributos de Miracema/RJ
+### Fiscal de Tributos Municipal
 
 Atuação em fiscalização, análise tributária, projetos de modernização e atendimento técnico ligado à administração tributária municipal.
+:::
+
+::: {.timeline-item}
+### Fundador da IDESPINDOLA SISTEMAS
+
+Iniciativa voltada ao desenvolvimento de sistemas especialistas, automações e soluções técnicas para rotinas contábeis, fiscais e tributárias.
+:::
+
+::: {.timeline-item}
+### Presidente do Comitê Gestor do SEI
+
+Presidência do [Comitê Gestor do SEI de Miracema](https://miracema.rj.gov.br/sei), com atuação na implantação, governança e melhoria do processo administrativo eletrônico no município.
 :::
 
 ::: {.timeline-item}
 ### Contador CRC-RJ 135764/O-4
 
 Atuação contábil com ênfase em gestão fiscal, regularização, Simples Nacional, MEI, autônomos e organização financeira.
+:::
+
+::: {.timeline-item}
+### Representante técnico indicado pela CNM
+
+Servidor municipal indicado pela Confederação Nacional dos Municípios, conforme norma da Receita Federal, para atuação técnica junto ao Simples Nacional: [consulta externa da norma](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/151509).
 :::
 
 ::: {.timeline-item}
@@ -79,6 +103,5 @@ Formação multidisciplinar voltada a problemas em que números, normas e sistem
 ::: {.link-row}
 [<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com){.button .light}
 [<i class="bi bi-instagram"></i> Instagram](https://www.instagram.com/idespindola){.button .light}
-[<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/idespindola){.button .light}
 :::
 :::

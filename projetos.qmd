@@ -26,6 +26,19 @@ Sistema próprio desenvolvido para modernização da fiscalização municipal do
 :::
 
 ::: {.card}
+### IDESPINDOLA SISTEMAS
+
+Empresa fundada para desenvolver sistemas especialistas e automações aplicadas a problemas contábeis, fiscais e tributários, com foco em ganho de tempo, organização de dados e apoio técnico.
+
+::: {.tag-list}
+- Sistemas especialistas
+- Python
+- Automação fiscal
+- Dados públicos
+:::
+:::
+
+::: {.card}
 ### TCC UFRJ: Contabilidade + Código
 
 No trabalho [*Relação do Contador com a Tecnologia: Uso da Codificação para Automatizar Tarefas*](https://github.com/idespindola/TCC-UFRJ-CONTABILIDADE-CODE/blob/main/ISEspindola%20-%20TCC.pdf), apresentei como Python pode reduzir erros operacionais e liberar tempo para decisões estratégicas.
@@ -52,7 +65,7 @@ No trabalho [*Relação do Contador com a Tecnologia: Uso da Codificação para 
 
 Implantação e apoio a ferramentas que tornam processos públicos mais ágeis, rastreáveis e integrados.
 
-- SEI
+- [SEI em Miracema](https://miracema.rj.gov.br/sei), com presidência do Comitê Gestor
 - E-CARTA
 - REGIN/Junta Comercial via API
 :::
@@ -62,7 +75,7 @@ Implantação e apoio a ferramentas que tornam processos públicos mais ágeis, 
 
 Atuação em espaços de cooperação técnica voltados à modernização e padronização das administrações tributárias.
 
-- Representante dos Municípios no GTAO/CGSN
+- Representante dos Municípios no GTAO/CGSN, indicado pela CNM conforme [norma da Receita Federal](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/151509)
 - Membro do CTAT
 - Colaborações estratégicas em tributação municipal
 :::
@@ -82,6 +95,6 @@ Como Agente de Desenvolvimento Local pelo SEBRAE-RJ, apoio iniciativas ligadas �
 :::
 
 [<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com){.button .primary}
-[<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/idespindola){.button .light}
+[<i class="bi bi-instagram"></i> Instagram](https://www.instagram.com/idespindola){.button .light}
 :::
 :::

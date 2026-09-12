@@ -6,46 +6,36 @@ format: html
 ::: {.content-block}
 <span class="eyebrow">Serviços</span>
 
-# Contabilidade, regularização e gestão financeira
+# Soluções técnicas em tributação, perícia e regularização
 
-Atendimento personalizado para empresas, MEIs, autônomos e pessoas físicas. Os valores abaixo são referenciais mínimos e podem variar conforme volume, complexidade e escopo.
+Atendimento para empresas, advogados, contadores e pessoas físicas que precisam de análise clara, documentação bem organizada e decisões baseadas em evidências. Pela IDESPINDOLA SISTEMAS, uno contabilidade, tributação, tecnologia e orientação objetiva.
 :::
 
 ::: {.band}
 ::: {.content-block}
 ::: {.section-heading}
-## Gestão financeira
+## Frentes principais
 
-Planos para organizar notas, bancos, fluxo de caixa e análise financeira.
+Serviços pensados para resolver problemas fiscais, patrimoniais e contábeis com método, documentação e linguagem direta.
 :::
 
 ::: {.grid .three}
 ::: {.card}
-### Operacional 1
+### Reforma tributária
 
-- Emissão de NF-e e NFS-e.
-- Conciliação bancária.
-
-<span class="service-price">A partir de R$ 400,00/mês</span>
+Consultoria para entender impactos, reorganizar rotinas, revisar enquadramentos e preparar empresas para mudanças nas regras de consumo, documentos fiscais e apuração.
 :::
 
 ::: {.card}
-### Operacional 2
+### CNO e SERO
 
-- Emissão de NF-e e NFS-e.
-- Conciliação bancária.
-- Controle de fluxo de caixa.
-
-<span class="service-price">A partir de R$ 600,00/mês</span>
+Regularização de obras junto à Receita Federal, com cadastro no CNO, aferição no SERO, análise documental e estudo de decadência tributária quando cabível.
 :::
 
 ::: {.card}
-### Consultivo
+### Assistência técnica pericial
 
-- Rotina operacional completa.
-- Gestão financeira, orçamento, desempenho e custos.
-
-<span class="service-price">A partir de R$ 1.000,00/mês</span>
+Parceria técnica para advogados em demandas que envolvem tributos, cálculos, haveres, patrimônio, documentos fiscais e organização de evidências.
 :::
 :::
 :::
@@ -53,41 +43,26 @@ Planos para organizar notas, bancos, fluxo de caixa e análise financeira.
 
 ::: {.content-block}
 ::: {.section-heading}
-## MEI, autônomos e pessoa física
+## Contabilidade e negócios
 :::
 
 ::: {.grid .three}
 ::: {.card}
-### MEI
+### Abertura de empresa
 
-- Consultoria financeira.
-- Regularizações e parcelamentos.
-- Gestão de funcionário.
-- Contabilidade mensal.
-
-<span class="service-price">A partir de R$ 200,00</span>
+Análise do melhor caminho para formalizar o negócio, escolha do regime tributário, viabilidade, CNPJ, inscrições necessárias e alvará.
 :::
 
 ::: {.card}
-### Autônomos e investidores
+### Contabilidade mensal
 
-- Carnê-Leão.
-- Livro-Caixa.
-- Apuração de renda variável.
-- Ganho de capital e IRPF.
-
-<span class="service-price">A partir de R$ 150,00</span>
+Escrituração, apuração de tributos, obrigações acessórias, demonstrações contábeis, relatórios e acompanhamento fiscal para empresas do Simples Nacional.
 :::
 
 ::: {.card}
-### Regularizações
+### Gestão financeira
 
-- Pendências de CPF.
-- Saída definitiva do país.
-- Cadastro municipal e estadual.
-- Credenciamento para nota fiscal.
-
-<span class="service-price">Sob análise</span>
+Organização de notas, conciliação bancária, fluxo de caixa, separação entre finanças pessoais e empresariais e leitura dos números para decisão.
 :::
 :::
 :::
@@ -95,40 +70,32 @@ Planos para organizar notas, bancos, fluxo de caixa e análise financeira.
 ::: {.band}
 ::: {.content-block}
 ::: {.section-heading}
-## Empresas e obras
+## Regularização e proteção
 :::
 
 ::: {.grid .two}
 ::: {.card}
-### Contabilidade para Simples Nacional
+### MEI, autônomos e pessoa física
 
-Classificação contábil, apuração de tributos, obrigações acessórias, demonstrações contábeis, suporte fiscal e atendimento por e-mail.
-
-<span class="service-price">A partir de R$ 400,00/mês</span>
+Regularização, parcelamentos, credenciamento para emissão de notas, Carnê-Leão, Livro-Caixa, IRPF, ganho de capital e análise de pendências.
 :::
 
 ::: {.card}
-### Abertura de empresa
+### NFS-e, sistemas e automação
 
-Análise de regime tributário, ato de constituição, CNPJ, inscrição estadual quando aplicável, inscrição municipal e alvará.
-
-<span class="service-price">A partir de R$ 800,00</span>
+Apoio em rotinas de nota fiscal de serviço, conferência de dados, integrações, cruzamentos fiscais e automações com Python para tarefas contábeis e tributárias.
 :::
 
 ::: {.card}
-### Regularização de obras: CNO e SERO
+### Marca, software e inovação
 
-Cadastro da obra, análise documental, estudo de decadência tributária, aplicação de reduções legais e envio da aferição no SERO.
-
-<span class="service-price">A partir de R$ 300,00 ou 30% da redução obtida</span>
+Orientação para proteger marcas, programas de computador e ativos intelectuais, com organização documental e acompanhamento do caminho adequado.
 :::
 
 ::: {.card}
-### Departamento pessoal sob demanda
+### Regularização patrimonial
 
-Folha, pró-labore, admissões, férias, rescisões, 13º salário e obrigações trabalhistas podem ser contratados conforme necessidade.
-
-<span class="service-price">Sob proposta</span>
+Leitura técnica de documentos, valores, imóveis, obrigações e registros para apoiar decisões administrativas, contábeis ou judiciais.
 :::
 :::
 :::
@@ -136,9 +103,11 @@ Folha, pró-labore, admissões, férias, rescisões, 13º salário e obrigaçõe
 
 ::: {.content-block .compact}
 ::: {.section-heading}
-## Solicite uma proposta
+## Vamos conversar?
+
+Me conte o que você precisa organizar, provar, calcular ou regularizar. A partir disso, eu avalio o cenário e proponho o melhor caminho.
 :::
 
 [<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com){.button .primary}
-[<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/idespindola){.button .light}
+[<i class="bi bi-instagram"></i> Instagram](https://www.instagram.com/idespindola){.button .light}
 :::

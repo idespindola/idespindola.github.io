@@ -5,11 +5,11 @@ format: html
 
 ::: {.hero}
 ::: {.hero-inner}
-<span class="eyebrow">Fiscal de Tributos de Miracema/RJ · Contador CRC-RJ 135764/O-4</span>
+<span class="eyebrow">Fiscal de Tributos Municipal · Contador CRC-RJ 135764/O-4 · Fundador da IDESPINDOLA SISTEMAS</span>
 
 # Igor Espindola
 
-Sou contador, servidor público e desenvolvedor de soluções para gestão tributária municipal. Trabalho unindo legislação, dados e automação para transformar rotinas fiscais em inteligência prática.
+Sou contador, fiscal de tributos municipal, desenvolvedor de sistemas especialistas e fundador da IDESPINDOLA SISTEMAS. Trabalho unindo legislação, dados e automação para transformar rotinas fiscais em inteligência prática.
 
 ::: {.action-row}
 [Conheça meus projetos](projetos.qmd){.button .primary}
@@ -23,9 +23,9 @@ Sou contador, servidor público e desenvolvedor de soluções para gestão tribu
 Atuação no setor público
 :::
 ::: {.stat}
-**INPI**
+**IDESPINDOLA**
 
-Software tributário registrado
+Sistemas especialistas
 :::
 ::: {.stat}
 **ISS**
@@ -33,9 +33,9 @@ Software tributário registrado
 Fiscalização orientada a dados
 :::
 ::: {.stat}
-**Python**
+**SEI**
 
-Automação aplicada à contabilidade
+Comitê Gestor em Miracema
 :::
 :::
 :::
@@ -58,13 +58,13 @@ Cruzamento de dados fiscais, análise de inconsistências, apoio à fiscalizaç�
 ::: {.card}
 ### Automação com propósito
 
-Uso Python, planilhas, APIs e sistemas web para reduzir trabalho repetitivo, padronizar análises e entregar respostas mais rápidas.
+Pela IDESPINDOLA SISTEMAS, uso Python, planilhas, APIs e sistemas web para reduzir trabalho repetitivo, padronizar análises e entregar respostas mais rápidas.
 :::
 
 ::: {.card}
-### Contabilidade consultiva
+### Soluções técnicas
 
-Atendimento contábil e financeiro com foco em organização, regularidade fiscal, abertura de empresas, MEI, autônomos e Simples Nacional.
+Consultoria em reforma tributária, CNO/SERO, assistência técnica pericial para advogados, regularização patrimonial e proteção de marcas ou softwares.
 :::
 :::
 :::
@@ -74,7 +74,7 @@ Atendimento contábil e financeiro com foco em organização, regularidade fisca
 ::: {.section-heading}
 ## Linhas de interesse
 
-Gosto de construir ferramentas que deixam o serviço público mais simples, auditável e eficiente. Também me interessam educação tecnológica, produtividade real, gestão financeira sem complicação e projetos em que contabilidade e código caminham juntos.
+Gosto de construir ferramentas que deixam o serviço público mais simples, auditável e eficiente. Também me interessam sistemas especialistas, educação tecnológica, produtividade real, viagens, café, fé, família e projetos em que contabilidade e código caminham juntos.
 :::
 
 ::: {.grid .two}
