@@ -50,6 +50,18 @@ No trabalho [*Relação do Contador com a Tecnologia: Uso da Codificação para 
 - UFRJ
 :::
 :::
+::: {.card}
+### Matemática, ensino e tecnologia
+
+Minha trajetória também passa pela docência: atuação como Professor de Matemática no Ensino Médio e monitorias na UFF, com trabalhos ligados ao uso de recursos computacionais e aprendizagem matemática.
+
+::: {.tag-list}
+- Matemática
+- Ensino médio
+- UFF
+- Tecnologia educacional
+:::
+:::
 :::
 :::
 :::
@@ -66,8 +78,6 @@ No trabalho [*Relação do Contador com a Tecnologia: Uso da Codificação para 
 Implantação e apoio a ferramentas que tornam processos públicos mais ágeis, rastreáveis e integrados.
 
 - [SEI em Miracema](https://miracema.rj.gov.br/sei), com presidência do Comitê Gestor
-- E-CARTA
-- REGIN/Junta Comercial via API
 :::
 
 ::: {.card}

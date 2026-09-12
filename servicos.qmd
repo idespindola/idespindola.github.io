@@ -14,6 +14,59 @@ Atendimento para empresas, advogados, contadores e pessoas físicas que precisam
 ::: {.band}
 ::: {.content-block}
 ::: {.section-heading}
+## Parcerias técnicas
+
+Atuação ao lado de profissionais que precisam entregar segurança documental, cálculos bem fundamentados e leitura técnica independente.
+:::
+
+::: {.partnership-feature}
+::: {.partnership-copy}
+### CNO/SERO para engenheiros e proprietários
+
+Você cuida da engenharia. Eu cuido da regularização previdenciária da obra, com organização documental, conferência de informações e acompanhamento técnico do início ao fim.
+
+<ul class="tag-list">
+  <li>CNO</li>
+  <li>SERO</li>
+  <li>SISOBRAPREF</li>
+  <li>VAU</li>
+  <li>Notificações RFB</li>
+  <li>eSocial/DCTFWeb</li>
+</ul>
+
+[Ver proposta técnica](arquivos/Parceria-Tecnica-CNO-SERO.pdf){.button .primary}
+[Lista de documentos](arquivos/Lista-Documentos-Comprovacao-CNO-SERO.pdf){.button .light}
+:::
+
+::: {.partnership-media}
+![](imagens/parcerias/Parceria-CNO-1.png){fig-alt="Parceria técnica CNO/SERO para regularização de obras"}
+:::
+:::
+
+::: {.grid .two .partnership-grid}
+::: {.card}
+### Documentação faz diferença
+
+Notas fiscais, recibos, comprovantes, contratos, recolhimentos e informações da obra precisam conversar entre si. A parceria técnica reduz risco de autuações e dá previsibilidade ao processo.
+:::
+
+::: {.card}
+### Assistência técnica pericial para advogados
+
+Apoio técnico contábil para quesitos, pareceres, estudos de haveres, cálculo trabalhista, análise de laudos e construção de cenários para negociação ou processo.
+:::
+:::
+
+::: {.image-strip}
+![](imagens/parcerias/Parceria-CNO-2.png){fig-alt="Documentos necessários para regularização CNO/SERO"}
+![](imagens/parcerias/Parceria-CNO-3.png){fig-alt="Palavras-chave da regularização de obras"}
+![](imagens/parcerias/Assistencia-Tecnica-Pericial.png){fig-alt="Assistência técnica pericial para advogados"}
+:::
+:::
+:::
+
+::: {.content-block}
+::: {.section-heading}
 ## Frentes principais
 
 Serviços pensados para resolver problemas fiscais, patrimoniais e contábeis com método, documentação e linguagem direta.
@@ -36,7 +89,6 @@ Regularização de obras junto à Receita Federal, com cadastro no CNO, aferiç�
 ### Assistência técnica pericial
 
 Parceria técnica para advogados em demandas que envolvem tributos, cálculos, haveres, patrimônio, documentos fiscais e organização de evidências.
-:::
 :::
 :::
 :::

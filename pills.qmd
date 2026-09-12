@@ -15,6 +15,14 @@ Alguns pensamentos que orientam meu jeito de trabalhar: simplicidade, dados, pro
 ::: {.content-block}
 ::: {.grid .two}
 ::: {.card .pill-note}
+### Trabalho com propósito
+
+"Tudo quanto te vier à mão para fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há obra nem projeto, nem conhecimento, nem sabedoria alguma."
+
+Eclesiastes 9:10
+:::
+
+::: {.card .pill-note}
 ### Escritório sem paredes
 
 Atendimento contábil pode ser sério, próximo e eficiente mesmo sem escritório físico. Videoconferência, documentos digitais e processos bem combinados reduzem deslocamento e mantêm a relação clara.

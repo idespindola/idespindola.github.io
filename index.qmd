@@ -9,7 +9,7 @@ format: html
 
 # Igor Espindola
 
-Sou contador, fiscal de tributos municipal e fundador da IDESPINDOLA SISTEMAS, construindo sistemas especialistas para transformar rotinas fiscais em inteligência prática.
+Sou contador, fiscal de tributos municipal, professor de formação e fundador da IDESPINDOLA SISTEMAS, construindo sistemas especialistas para transformar rotinas fiscais em inteligência prática.
 
 ::: {.action-row}
 [Conheça meus projetos](projetos.qmd){.button .primary}
@@ -33,9 +33,9 @@ Construindo sistemas especialistas
 Fiscalização orientada a dados
 :::
 ::: {.stat}
-**SEI**
+**Professor**
 
-Comitê Gestor em Miracema
+Matemática e tecnologia
 :::
 :::
 :::
@@ -81,13 +81,13 @@ Gosto de construir ferramentas que deixam o serviço público mais simples, audi
 ::: {.card}
 ### Gestão pública e dados
 
-Projetos com PGDAS-D, NFS-e, DECRED, REGIN, SEI, E-CARTA e integração entre bases públicas para melhorar decisão e fiscalização.
+Projetos com PGDAS-D, NFS-e, DECRED, SEI e integração entre bases públicas para melhorar decisão e fiscalização.
 :::
 
 ::: {.card}
 ### Tecnologia acessível
 
-Defendo tecnologia útil: menos burocracia, menos retrabalho, mais clareza para quem trabalha e para quem precisa ser atendido.
+Defendo tecnologia útil e ensino aplicável: menos burocracia, menos retrabalho, mais clareza para quem trabalha, aprende ou precisa ser atendido.
 :::
 :::
 :::
@@ -95,6 +95,8 @@ Defendo tecnologia útil: menos burocracia, menos retrabalho, mais clareza para 
 
 ::: {.content-block .compact}
 ::: {.quote}
-"Menos horas, mais resultado. A automação é o futuro da contabilidade."
+"Tudo quanto te vier à mão para fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há obra nem projeto, nem conhecimento, nem sabedoria alguma."
+
+Eclesiastes 9:10
 :::
 :::

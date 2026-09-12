@@ -14,7 +14,7 @@ format: html
 
 # Fiscal, contador e fundador da IDESPINDOLA SISTEMAS
 
-Sou Igor da Silva Espindola, contador registrado no CRC-RJ, Fiscal de Tributos Municipal em Miracema/RJ e fundador da IDESPINDOLA SISTEMAS. Atuo desde 2011 no setor público, com foco em gestão tributária municipal, fiscalização de ISS, análise de dados, automação de rotinas e construção de sistemas especialistas.
+Sou Igor da Silva Espindola, contador registrado no CRC-RJ, Fiscal de Tributos Municipal em Miracema/RJ, professor de formação e fundador da IDESPINDOLA SISTEMAS. Atuo desde 2011 no setor público, com foco em gestão tributária municipal, fiscalização de ISS, análise de dados, automação de rotinas e construção de sistemas especialistas.
 
 Minha formação passa por Matemática na UFF, Ciências Contábeis na UFRJ e especialização em Direito Tributário. Essa combinação moldou meu jeito de trabalhar: rigor técnico, leitura jurídica cuidadosa e vontade de transformar processos complexos em sistemas mais simples.
 :::
@@ -46,6 +46,12 @@ Programação, para mim, é uma extensão da contabilidade e da fiscalização: 
 ### Serviço público moderno
 
 Tenho interesse especial por transformação digital, integração entre órgãos, transparência e melhoria da experiência do cidadão.
+:::
+
+::: {.card}
+### Experiência docente
+
+Já atuei como Professor de Matemática no Ensino Médio e como monitor na UFF, experiências que reforçaram meu interesse por didática, tecnologia e resolução de problemas.
 :::
 :::
 :::
@@ -97,6 +103,12 @@ Servidor municipal indicado pela Confederação Nacional dos Municípios, confor
 ### Matemática, Contabilidade e Direito Tributário
 
 Formação multidisciplinar voltada a problemas em que números, normas e sistemas precisam conversar.
+:::
+
+::: {.timeline-item}
+### Professor de Matemática e monitor na UFF
+
+Atuação como Professor de Matemática no Ensino Médio pela SEEDUC-RJ em 2022, lotado no Instituto de Educação de Miracema, além de monitorias na Universidade Federal Fluminense em 2011 e 2012. Fonte pública: [perfil acadêmico no Escavador](https://www.escavador.com/sobre/4914054/igor-da-silva-espindola).
 :::
 :::
 
