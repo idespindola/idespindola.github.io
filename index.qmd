@@ -3,17 +3,98 @@ title: "Igor Espindola"
 format: html
 ---
 
-![](imagens/Logo.png){width=25% fig-align="center"}
+::: {.hero}
+::: {.hero-inner}
+<span class="eyebrow">Fiscal de Tributos de Miracema/RJ · Contador CRC-RJ 135764/O-4</span>
 
+# Igor Espindola
 
-# 👋 Olá! Sou Igor Espindola
+Sou contador, servidor público e desenvolvedor de soluções para gestão tributária municipal. Trabalho unindo legislação, dados e automação para transformar rotinas fiscais em inteligência prática.
 
-Contador registrado no CRC-RJ e Fiscal de Tributos em Miracema/RJ. Especialista em gestão tributária municipal, com atuação estratégica orientada a dados e automações com Python.
+::: {.action-row}
+[Conheça meus projetos](projetos.qmd){.button .primary}
+[Fale comigo](about.qmd){.button .secondary}
+:::
 
-## 🛠️ Áreas de Atuação
+::: {.stats}
+::: {.stat}
+**2011**
 
-- Gestão Fiscal e Contábil  
-- Fiscalização de ISS  
-- Análise de Dados  
-- Projetos com PGDAS-D, NFS-e e DECRED  
-- Implantação de Sistemas Inteligentes para Municípios
+Atuação no setor público
+:::
+::: {.stat}
+**INPI**
+
+Software tributário registrado
+:::
+::: {.stat}
+**ISS**
+
+Fiscalização orientada a dados
+:::
+::: {.stat}
+**Python**
+
+Automação aplicada à contabilidade
+:::
+:::
+:::
+:::
+
+::: {.content-block}
+::: {.section-heading}
+## O que eu faço
+
+Minha atuação fica na interseção entre administração tributária, contabilidade, tecnologia e atendimento claro ao contribuinte.
+:::
+
+::: {.grid .three}
+::: {.card}
+### Fiscalização inteligente
+
+Cruzamento de dados fiscais, análise de inconsistências, apoio à fiscalização de ISS e melhoria de processos na arrecadação municipal.
+:::
+
+::: {.card}
+### Automação com propósito
+
+Uso Python, planilhas, APIs e sistemas web para reduzir trabalho repetitivo, padronizar análises e entregar respostas mais rápidas.
+:::
+
+::: {.card}
+### Contabilidade consultiva
+
+Atendimento contábil e financeiro com foco em organização, regularidade fiscal, abertura de empresas, MEI, autônomos e Simples Nacional.
+:::
+:::
+:::
+
+::: {.band}
+::: {.content-block}
+::: {.section-heading}
+## Linhas de interesse
+
+Gosto de construir ferramentas que deixam o serviço público mais simples, auditável e eficiente. Também me interessam educação tecnológica, produtividade real, gestão financeira sem complicação e projetos em que contabilidade e código caminham juntos.
+:::
+
+::: {.grid .two}
+::: {.card}
+### Gestão pública e dados
+
+Projetos com PGDAS-D, NFS-e, DECRED, REGIN, SEI, E-CARTA e integração entre bases públicas para melhorar decisão e fiscalização.
+:::
+
+::: {.card}
+### Tecnologia acessível
+
+Defendo tecnologia útil: menos burocracia, menos retrabalho, mais clareza para quem trabalha e para quem precisa ser atendido.
+:::
+:::
+:::
+:::
+
+::: {.content-block .compact}
+::: {.quote}
+"Menos horas, mais resultado. A automação é o futuro da contabilidade."
+:::
+:::

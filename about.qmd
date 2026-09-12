@@ -3,11 +3,82 @@ title: "Sobre Mim"
 format: html
 ---
 
-Sou Contador e Fiscal de Tributos, com atuação desde 2011 no setor público. Tenho formação em Matemática (UFF), Ciências Contábeis (UFRJ) e especialização em Direito Tributário. Desenvolvi o Sistema de Controle e Análise Tributária do ISS, registrado no INPI, para modernização da gestão tributária municipal.
+::: {.content-block}
+::: {.profile}
+::: {.profile-logo}
+![](imagens/LogoPythonColoridoEstilizado.png){fig-alt="Marca Igor Espindola Contador"}
+:::
 
-> “Menos horas, mais resultado. A automação é o futuro da contabilidade.”
+::: {.profile-copy}
+<span class="eyebrow">Sobre mim</span>
 
-## 📎 Contato
+# Fiscal, contador e construtor de soluções
 
-- [<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com)
-- [<i class="bi bi-instagram"></i> Instagram](https://www.instagram.com/idespindola)
+Sou Igor da Silva Espindola, contador registrado no CRC-RJ e Fiscal de Tributos do Município de Miracema/RJ. Atuo desde 2011 no setor público, com foco em gestão tributária municipal, fiscalização de ISS, análise de dados e automação de rotinas.
+
+Minha formação passa por Matemática na UFF, Ciências Contábeis na UFRJ e especialização em Direito Tributário. Essa combinação moldou meu jeito de trabalhar: rigor técnico, leitura jurídica cuidadosa e vontade de transformar processos complexos em sistemas mais simples.
+:::
+:::
+:::
+
+::: {.band}
+::: {.content-block}
+::: {.section-heading}
+## Minha forma de trabalhar
+
+Gosto de resolver problemas reais, especialmente aqueles que ficam escondidos em planilhas, sistemas isolados, dados mal aproveitados e rotinas que consomem tempo demais.
+:::
+
+::: {.grid .three}
+::: {.card}
+### Dados antes de achismo
+
+Quando há base disponível, a decisão precisa ser sustentada por evidência, rastreabilidade e critério técnico.
+:::
+
+::: {.card}
+### Código como ferramenta
+
+Programação, para mim, é uma extensão da contabilidade e da fiscalização: serve para automatizar, conferir, comparar e documentar.
+:::
+
+::: {.card}
+### Serviço público moderno
+
+Tenho interesse especial por transformação digital, integração entre órgãos, transparência e melhoria da experiência do cidadão.
+:::
+:::
+:::
+:::
+
+::: {.content-block}
+::: {.section-heading}
+## Formação e atuação
+:::
+
+::: {.timeline}
+::: {.timeline-item}
+### Fiscal de Tributos de Miracema/RJ
+
+Atuação em fiscalização, análise tributária, projetos de modernização e atendimento técnico ligado à administração tributária municipal.
+:::
+
+::: {.timeline-item}
+### Contador CRC-RJ 135764/O-4
+
+Atuação contábil com ênfase em gestão fiscal, regularização, Simples Nacional, MEI, autônomos e organização financeira.
+:::
+
+::: {.timeline-item}
+### Matemática, Contabilidade e Direito Tributário
+
+Formação multidisciplinar voltada a problemas em que números, normas e sistemas precisam conversar.
+:::
+:::
+
+::: {.link-row}
+[<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com){.button .light}
+[<i class="bi bi-instagram"></i> Instagram](https://www.instagram.com/idespindola){.button .light}
+[<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/idespindola){.button .light}
+:::
+:::

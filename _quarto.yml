@@ -6,7 +6,10 @@ project:
 
 website:
   title: "Igor Espindola"
+  favicon: imagens/LogoSemFundo.png
   navbar:
+    logo: imagens/LogoSemFundo.png
+    logo-alt: "Logo Igor Espindola"
     left:
       - href: index.qmd
         text: Início
@@ -17,12 +20,20 @@ website:
       - href: servicos.qmd
         text: Serviços
       - href: pills.qmd
-        text: Pills
+        text: Ideias
   page-footer:
-    center: "© 2025 Igor Espindola · Contador & Fiscal de Tributos"
+    left: "© 2026 Igor Espindola"
+    center: "Contador CRC-RJ 135764/O-4 · Fiscal de Tributos de Miracema/RJ"
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/idespindola
+      - icon: linkedin
+        href: https://www.linkedin.com/in/idespindola
 
 format:
   html:
     theme: cosmo
-    toc: true
+    css: styles.css
+    toc: false
     code-copy: true
+    page-layout: full

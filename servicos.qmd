@@ -1,234 +1,144 @@
 ---
-title: "Serviços e Honorários"
+title: "Serviços"
 format: html
 ---
 
-# 💼 Serviços Prestados
+::: {.content-block}
+<span class="eyebrow">Serviços</span>
 
-Apresento abaixo os serviços disponíveis, com valores referenciais de honorários. Todos os atendimentos são personalizados conforme a necessidade de cada cliente.
+# Contabilidade, regularização e gestão financeira
 
-> *Os valores indicados são referenciais mínimos. Projetos especiais, maior volume de demandas ou maior grau de complexidade podem alterar o valor final.*
+Atendimento personalizado para empresas, MEIs, autônomos e pessoas físicas. Os valores abaixo são referenciais mínimos e podem variar conforme volume, complexidade e escopo.
+:::
 
----
+::: {.band}
+::: {.content-block}
+::: {.section-heading}
+## Gestão financeira
 
-## 📊 Serviços de Gestão Financeira
+Planos para organizar notas, bancos, fluxo de caixa e análise financeira.
+:::
 
-**Transforme a gestão financeira da sua empresa!**  
-Escolha o plano que melhor se adapta às suas necessidades:
+::: {.grid .three}
+::: {.card}
+### Operacional 1
 
----
+- Emissão de NF-e e NFS-e.
+- Conciliação bancária.
 
-#### **1️⃣ Plano Operacional 1:**
+<span class="service-price">A partir de R$ 400,00/mês</span>
+:::
 
-- Emissão de Notas Fiscais: NF-e e NFS-e, garantindo conformidade fiscal.
-- Conciliação Bancária: Precisão nos registros financeiros e identificação de divergências.
+::: {.card}
+### Operacional 2
 
-> **Honorários**: A partir de **R$ 400,00/mês**
+- Emissão de NF-e e NFS-e.
+- Conciliação bancária.
+- Controle de fluxo de caixa.
 
----
+<span class="service-price">A partir de R$ 600,00/mês</span>
+:::
 
-#### **2️⃣ Plano Operacional 2:**
+::: {.card}
+### Consultivo
 
-- Emissão de Notas Fiscais: NF-e e NFS-e, garantindo conformidade fiscal.
-- Conciliação Bancária: Precisão nos registros financeiros e identificação de divergências.
-- Controle de Fluxo de Caixa: Monitoramento de entradas e saídas para saúde financeira.
+- Rotina operacional completa.
+- Gestão financeira, orçamento, desempenho e custos.
 
-> **Honorários**: A partir de **R$ 600,00/mês**
+<span class="service-price">A partir de R$ 1.000,00/mês</span>
+:::
+:::
+:::
+:::
 
----
+::: {.content-block}
+::: {.section-heading}
+## MEI, autônomos e pessoa física
+:::
 
-#### **3️⃣ Plano Consultivo:**
+::: {.grid .three}
+::: {.card}
+### MEI
 
-- Emissão de Notas Fiscais: NF-e e NFS-e, garantindo conformidade fiscal.
-- Conciliação Bancária: Precisão nos registros financeiros e identificação de divergências.
-- Controle de Fluxo de Caixa: Monitoramento de entradas e saídas para saúde financeira.
-- Gestão Financeira: Controle orçamentário, análise de desempenho e gestão de custos.
+- Consultoria financeira.
+- Regularizações e parcelamentos.
+- Gestão de funcionário.
+- Contabilidade mensal.
 
-> **Honorários**: A partir de **R$ 1.000,00/mês**
+<span class="service-price">A partir de R$ 200,00</span>
+:::
 
----
+::: {.card}
+### Autônomos e investidores
 
-## 🧩 Serviços Especializados para MEI
+- Carnê-Leão.
+- Livro-Caixa.
+- Apuração de renda variável.
+- Ganho de capital e IRPF.
 
-Atendemos microempreendedores individuais com soluções específicas para facilitar a regularização, a gestão financeira e o crescimento dos negócios.
+<span class="service-price">A partir de R$ 150,00</span>
+:::
 
----
+::: {.card}
+### Regularizações
 
-#### **1️⃣ Consultoria Financeira para MEI**
+- Pendências de CPF.
+- Saída definitiva do país.
+- Cadastro municipal e estadual.
+- Credenciamento para nota fiscal.
 
-- Organização do fluxo de caixa;
-- Separação entre finanças pessoais e jurídicas;
-- Orientação para formação de preços;
-- Planejamento de capital de giro e reservas;
-- Definição de pró-labore.
+<span class="service-price">Sob análise</span>
+:::
+:::
+:::
 
-> **Honorários**: A partir de **R$ 300,00**
+::: {.band}
+::: {.content-block}
+::: {.section-heading}
+## Empresas e obras
+:::
 
----
+::: {.grid .two}
+::: {.card}
+### Contabilidade para Simples Nacional
 
-#### **2️⃣ Gestão de Funcionário para MEI**
+Classificação contábil, apuração de tributos, obrigações acessórias, demonstrações contábeis, suporte fiscal e atendimento por e-mail ou WhatsApp.
 
-- Admissão de funcionário;
-- Folha de pagamento mensal;
-- Emissão do DAE (Documento de Arrecadação do eSocial);
-- Controle de férias, 13º salário e rescisão.
+<span class="service-price">A partir de R$ 400,00/mês</span>
+:::
 
-> **Honorários**: A partir de **R$ 200,00/mês**
+::: {.card}
+### Abertura de empresa
 
----
+Análise de regime tributário, ato de constituição, CNPJ, inscrição estadual quando aplicável, inscrição municipal e alvará.
 
-#### **3️⃣ Regularizações de MEI**
+<span class="service-price">A partir de R$ 800,00</span>
+:::
 
-- Parcelamento de débitos;
-- Regularização de empresa inapta;
-- Atualização de cadastro na Prefeitura e na Fazenda Estadual;
-- Credenciamento para emissão de notas fiscais.
+::: {.card}
+### Regularização de obras: CNO e SERO
 
-> **Honorários**: A partir de **R$ 300,00**
+Cadastro da obra, análise documental, estudo de decadência tributária, aplicação de reduções legais e envio da aferição no SERO.
 
----
+<span class="service-price">A partir de R$ 300,00 ou 30% da redução obtida</span>
+:::
 
-#### **4️⃣ Contabilidade Mensal para MEI**
+::: {.card}
+### Departamento pessoal sob demanda
 
-- Lançamentos contábeis;
-- Escrituração contábil;
-- Emissão de Balanço Patrimonial, DRE e demais relatórios contábeis.
+Folha, pró-labore, admissões, férias, rescisões, 13º salário e obrigações trabalhistas podem ser contratados conforme necessidade.
 
-> **Honorários**: A partir de **R$ 400,00/mês**
+<span class="service-price">Sob proposta</span>
+:::
+:::
+:::
+:::
 
----
+::: {.content-block .compact}
+::: {.section-heading}
+## Solicite uma proposta
+:::
 
-## 🧩 Serviços Especializados para Autônomos
-
-Atendimento completo para profissionais liberais, produtores rurais e investidores pessoas físicas, com foco em conformidade fiscal e otimização tributária.
-
----
-
-### 🛠️ Serviços Avulsos
-
-Prestação de serviços pontuais conforme a necessidade do contribuinte:
-
-- Declaração do Imposto de Renda Pessoa Física (IRPF);
-- Apuração de Ganhos de Capital (GCAP);
-- Regularização de Pendências do CPF;
-- Declaração de Saída Definitiva do País.
-
-> **Honorários**: A partir de **R$ 150,00**
-
----
-
-### 🔄 Serviços Recorrentes
-
-Atendimento contínuo para autônomos e investidores:
-
-- Apuração mensal do Carnê-Leão para profissionais autônomos;
-- Cálculo e apuração de Imposto de Renda sobre investimentos em renda variável (ações, fundos, FIIs);
-- Escrituração do Livro-Caixa para produtores rurais.
-
-> **Honorários**: A partir de **R$ 150,00/mês**
-
----
-
-### 📊 Política de Honorários por Complexidade
-
-A cobrança de honorários é ajustada conforme o grau de complexidade da declaração ou serviço:
-
-- **Nível 1**:  
-  Uma fonte de renda, um dependente, nenhuma ou poucas despesas dedutíveis, até dois bens ou direitos, apenas renda fixa.
-
-- **Nível 2**:  
-  Mais de uma fonte de renda, vários dependentes, renda fixa e/ou variável com necessidade de cálculos mais elaborados.
-
-- **Nível 3**:  
-  Operações envolvendo Ganhos de Capital (GCAP), Bolsa de Valores, Carnê-Leão Retroativo e situações especiais.
-
----
-
-## 🧾  Serviços Contábeis
-
-### • Contabilidade Completa para Simples Nacional
-
-**Descrição**:  
-Classificação contábil, apuração de tributos, entrega de obrigações acessórias e emissão de relatórios financeiros.
-
-> **Honorários**: A partir de **R$ 400,00/mês**
-
-**Serviços incluídos na contabilidade mensal:**
-
-- Emissão de uma declaração mensal de faturamento para bancos e financeiras (quando solicitado);
-- Execução das obrigações legais perante a Receita Federal e a Prefeitura Municipal para empresas optantes pelo Simples Nacional;
-- Escrituração contábil regular (contabilidade completa);
-- Elaboração das Demonstrações Contábeis (DRE, Balanço Patrimonial, Balancetes, Livro Diário, Livro Razão);
-- Envio de notificações e lembretes sobre obrigações tributárias e contábeis;
-- Consultoria para emissão de Notas Fiscais de Serviço Eletrônica (NFS-e);
-- Acompanhamento e orientação em procedimentos de fiscalização tributária;
-- Consultoria contábil, fiscal e gerencial sobre o segmento de atuação da empresa;
-- Atendimento via e-mail e WhatsApp.
-
-**Serviços Adicionais (não inclusos nas mensalidades), cobrados à parte:**
-
-- Alterações posteriores no CNPJ (ex: atividades, endereço, capital social);
-- Procedimentos junto ao Banco Central (capital estrangeiro, empréstimos, inclusão de sócios estrangeiros);
-- Emissão de DECORE (Declaração Comprobatória de Percepção de Rendimentos);
-- Emissão de certidões negativas (INSS, FGTS, federais, municipais, trabalhistas, falências, protestos);
-- Serviço de Domicílio Fiscal;
-- Rotinas de Departamento Pessoal:
-  - Elaboração de folha de pagamento;
-  - Cálculo e emissão de pró-labore;
-  - Admissão, rescisão, férias, 13º salário;
-  - Envio das obrigações acessórias trabalhistas;
-  - Consultoria trabalhista especializada.
-
----
-
-### • Abertura de Empresa
-
-**Descrição**: 
-Procedimentos completos para a constituição da empresa.
-
-- Análise do regime tributário mais vantajoso para que a empresa pague menos impostos;
-- Elaboração e registro do ato de constituição no órgão de registro;
-- Criação do CNPJ na Receita Federal;
-- Criação da IE na SEFAZ, caso a atividade exija;
-- Criação da Inscrição Municipal na prefeitura;
-- Emissão do alvará de localização/funcionamento.
-- (Taxas de órgãos públicos são responsabilidade do cliente)
-
-> **Honorários**: A partir de **R$ 800,00**
-
----
-
-
-## 🧱 Regularização de Obras junto à Receita Federal  
-
-**Descrição:**
-Cadastro no **CNO** e aferição via **SERO**, com possibilidade de aplicação de **decadência tributária** e **redução do valor do INSS** por comprovação técnica.
-
-A regularização de obras de construção civil é obrigatória junto à Receita Federal, e envolve duas etapas principais:
-
-- **CNO (Cadastro Nacional de Obras)**  
-  Registro da obra no sistema da Receita Federal para fins fiscais, substituindo o antigo CEI. Etapa essencial para permitir a análise do INSS da obra.
-
-- **SERO (Serviço Eletrônico para Aferição de Obras)**  
-  Etapa em que é feita a aferição da base de cálculo do INSS da obra.
-
-**O que está incluso:**
-
-- Análise completa dos documentos da obra;
-- Cadastro e regularização no CNO;
-- Estudo de decadência tributária;
-- Aplicação de reduções legais com base em documentação técnica ou presunção por padrão da obra;
-- Preenchimento e envio da aferição no SERO;
-- Suporte para emissão de guias de recolhimento.
-
-> **Honorários**: A partir de **R$ 300,00** ou **30% sobre a redução obtida** no valor do imposto apurado (quando aplicável).
-
----
-
-# 📞 Como Solicitar Proposta
-
-Entre em contato para análise personalizada:
-
-[<i class="bi bi-whatsapp"></i> WhatsApp](https://wa.me/5522992486787)  
-[<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com)  
----
+[<i class="bi bi-whatsapp"></i> WhatsApp](https://wa.me/5522992486787){.button .primary}
+[<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com){.button .light}
+:::
