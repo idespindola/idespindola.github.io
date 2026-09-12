@@ -71,7 +71,7 @@ Minha trajetória também passa pela docência: atuação como Professor de Mate
 ## Projetos institucionais
 :::
 
-::: {.grid .three}
+::: {.grid .two}
 ::: {.card}
 ### Transformação digital
 
@@ -88,12 +88,6 @@ Atuação em espaços de cooperação técnica voltados à modernização e padr
 - Representante dos Municípios no GTAO/CGSN, indicado pela CNM conforme [norma da Receita Federal](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/151509)
 - Membro do CTAT
 - Colaborações estratégicas em tributação municipal
-:::
-
-::: {.card}
-### Desenvolvimento local
-
-Como Agente de Desenvolvimento Local pelo SEBRAE-RJ, apoio iniciativas ligadas à formalização, ambiente de negócios e políticas públicas locais.
 :::
 :::
 :::
