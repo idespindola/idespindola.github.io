@@ -81,8 +81,7 @@ Como Agente de Desenvolvimento Local pelo SEBRAE-RJ, apoio iniciativas ligadas Ã
 ## Quer conversar sobre um projeto?
 :::
 
-[<i class="bi bi-whatsapp"></i> WhatsApp](https://wa.me/5522992486787){.button .primary}
-[<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com){.button .light}
+[<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com){.button .primary}
 [<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/idespindola){.button .light}
 :::
 :::

@@ -102,7 +102,7 @@ Planos para organizar notas, bancos, fluxo de caixa e análise financeira.
 ::: {.card}
 ### Contabilidade para Simples Nacional
 
-Classificação contábil, apuração de tributos, obrigações acessórias, demonstrações contábeis, suporte fiscal e atendimento por e-mail ou WhatsApp.
+Classificação contábil, apuração de tributos, obrigações acessórias, demonstrações contábeis, suporte fiscal e atendimento por e-mail.
 
 <span class="service-price">A partir de R$ 400,00/mês</span>
 :::
@@ -139,6 +139,6 @@ Folha, pró-labore, admissões, férias, rescisões, 13º salário e obrigaçõe
 ## Solicite uma proposta
 :::
 
-[<i class="bi bi-whatsapp"></i> WhatsApp](https://wa.me/5522992486787){.button .primary}
-[<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com){.button .light}
+[<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com){.button .primary}
+[<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/idespindola){.button .light}
 :::
