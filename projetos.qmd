@@ -28,10 +28,10 @@ Sistema próprio desenvolvido para modernização da fiscalização municipal do
 ::: {.card}
 ### IDESPINDOLA SISTEMAS
 
-Empresa fundada para desenvolver sistemas especialistas e automações aplicadas a problemas contábeis, fiscais e tributários, com foco em ganho de tempo, organização de dados e apoio técnico.
+Empresa fundada para construir sistemas especialistas e automações aplicadas a problemas contábeis, fiscais e tributários, com foco em ganho de tempo, organização de dados e apoio técnico.
 
 ::: {.tag-list}
-- Sistemas especialistas
+- Construção de sistemas especialistas
 - Python
 - Automação fiscal
 - Dados públicos

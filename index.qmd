@@ -9,7 +9,7 @@ format: html
 
 # Igor Espindola
 
-Sou contador, fiscal de tributos municipal, desenvolvedor de sistemas especialistas e fundador da IDESPINDOLA SISTEMAS. Trabalho unindo legislação, dados e automação para transformar rotinas fiscais em inteligência prática.
+Sou contador, fiscal de tributos municipal e fundador da IDESPINDOLA SISTEMAS, construindo sistemas especialistas para transformar rotinas fiscais em inteligência prática.
 
 ::: {.action-row}
 [Conheça meus projetos](projetos.qmd){.button .primary}
@@ -25,7 +25,7 @@ Atuação no setor público
 ::: {.stat}
 **IDESPINDOLA**
 
-Sistemas especialistas
+Construindo sistemas especialistas
 :::
 ::: {.stat}
 **ISS**

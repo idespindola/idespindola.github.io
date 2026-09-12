@@ -14,7 +14,7 @@ format: html
 
 # Fiscal, contador e fundador da IDESPINDOLA SISTEMAS
 
-Sou Igor da Silva Espindola, contador registrado no CRC-RJ, Fiscal de Tributos Municipal em Miracema/RJ e fundador da IDESPINDOLA SISTEMAS. Atuo desde 2011 no setor público, com foco em gestão tributária municipal, fiscalização de ISS, análise de dados, automação de rotinas e desenvolvimento de sistemas especialistas.
+Sou Igor da Silva Espindola, contador registrado no CRC-RJ, Fiscal de Tributos Municipal em Miracema/RJ e fundador da IDESPINDOLA SISTEMAS. Atuo desde 2011 no setor público, com foco em gestão tributária municipal, fiscalização de ISS, análise de dados, automação de rotinas e construção de sistemas especialistas.
 
 Minha formação passa por Matemática na UFF, Ciências Contábeis na UFRJ e especialização em Direito Tributário. Essa combinação moldou meu jeito de trabalhar: rigor técnico, leitura jurídica cuidadosa e vontade de transformar processos complexos em sistemas mais simples.
 :::
@@ -72,7 +72,7 @@ Atuação em fiscalização, análise tributária, projetos de modernização e 
 ::: {.timeline-item}
 ### Fundador da IDESPINDOLA SISTEMAS
 
-Iniciativa voltada ao desenvolvimento de sistemas especialistas, automações e soluções técnicas para rotinas contábeis, fiscais e tributárias.
+Iniciativa voltada à construção de sistemas especialistas, automações e soluções técnicas para rotinas contábeis, fiscais e tributárias.
 :::
 
 ::: {.timeline-item}
