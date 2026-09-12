@@ -53,7 +53,14 @@ Notas fiscais, recibos, comprovantes, contratos, recolhimentos e informações d
 ::: {.card}
 ### Assistência técnica pericial para advogados
 
-Apoio técnico contábil para quesitos, pareceres, estudos de haveres, cálculo trabalhista, análise de laudos e construção de cenários para negociação ou processo.
+Apoio técnico contábil especializado para fortalecer a estratégia do advogado com evidências corretas, análises claras e relatórios fundamentados.
+
+- Apuração de haveres em dissolução de sociedade.
+- Estudo técnico sobre divergência de valores ou participação societária.
+- Análise de laudo pericial desfavorável e preparação de parecer técnico.
+- Formulação de quesitos contábeis.
+- Cálculo de cenários para negociação antes da ação.
+- Cálculo trabalhista com memória detalhada e atendimento aos quesitos.
 :::
 :::
 
@@ -61,6 +68,26 @@ Apoio técnico contábil para quesitos, pareceres, estudos de haveres, cálculo 
 ![](imagens/parcerias/Parceria-CNO-2.png){fig-alt="Documentos necessários para regularização CNO/SERO"}
 ![](imagens/parcerias/Parceria-CNO-3.png){fig-alt="Palavras-chave da regularização de obras"}
 ![](imagens/parcerias/Assistencia-Tecnica-Pericial.png){fig-alt="Assistência técnica pericial para advogados"}
+:::
+
+::: {.partnership-feature .reverse}
+::: {.partnership-copy}
+### Perícia contábil como estratégia jurídica
+
+Você atua no Direito. Eu entrego a precisão dos números. A parceria técnica dá suporte independente para quesitos, pareceres e análises contábeis em demandas judiciais ou extrajudiciais.
+
+<ul class="tag-list">
+  <li>Apuração de haveres</li>
+  <li>Parecer técnico</li>
+  <li>Quesitos contábeis</li>
+  <li>Cálculo trabalhista</li>
+  <li>Cenários de negociação</li>
+</ul>
+:::
+
+::: {.partnership-media}
+![](imagens/parcerias/Assistencia-Tecnica-Pericial.png){fig-alt="Assistência técnica pericial para advogados"}
+:::
 :::
 :::
 :::
@@ -88,7 +115,7 @@ Regularização de obras junto à Receita Federal, com cadastro no CNO, aferiç�
 ::: {.card}
 ### Assistência técnica pericial
 
-Parceria técnica para advogados em demandas que envolvem tributos, cálculos, haveres, patrimônio, documentos fiscais e organização de evidências.
+Parceria técnica para advogados em demandas judiciais ou extrajudiciais que envolvem tributos, cálculos, haveres, patrimônio, documentos fiscais, verbas rescisórias, diferenças salariais, horas extras, adicionais e reflexos.
 :::
 :::
 :::

@@ -6,7 +6,7 @@ format: html
 ::: {.content-block}
 ::: {.profile}
 ::: {.profile-logo}
-![](imagens/LogoPythonColoridoEstilizado.png){fig-alt="Marca Igor Espindola Contador"}
+![](imagens/LogoSobre.png){fig-alt="Marca Igor Espindola Contador"}
 :::
 
 ::: {.profile-copy}
