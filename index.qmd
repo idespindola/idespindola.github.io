@@ -79,9 +79,9 @@ Gosto de construir ferramentas que deixam o serviço público mais simples, audi
 
 ::: {.grid .two}
 ::: {.card}
-### Gestão pública e dados
+### Inteligência fiscal municipal
 
-Projetos com PGDAS-D, NFS-e, DECRED, SEI e integração entre bases públicas para melhorar decisão e fiscalização.
+Construção de soluções para organizar bases fiscais, cruzar informações, identificar inconsistências e apoiar ações de conformidade, fiscalização e autorregularização no âmbito municipal.
 :::
 
 ::: {.card}

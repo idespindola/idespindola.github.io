@@ -17,12 +17,15 @@ Projetos que nascem de problemas concretos: cruzar dados, reduzir retrabalho, ap
 ::: {.card}
 ### Sistema de Controle e Análise Tributária do ISS
 
-Sistema próprio desenvolvido para modernização da fiscalização municipal do ISS, com registro no INPI **BR512024005264-0**.
+Solução concebida para uso da Administração Tributária Municipal, reunindo em ambiente integrado funcionalidades de tratamento de dados do Simples Nacional, padrão nacional da NFS-e, bases econômico-fiscais e outros conjuntos de dados legitimamente disponibilizados ao Município.
 
-- Cruzamento automático de PGDAS-D, NFS-e e DECRED.
-- Identificação de inconsistências fiscais.
-- Geração de relatórios para tomada de decisão.
-- Implantação em municípios como Miracema e Areal/RJ.
+- Tratamento de arquivos disponibilizados pelo TRANSFARQ do Simples Nacional.
+- Integração com serviços municipais do Ambiente de Dados Nacional (ADN), Cadastro Nacional de Contribuintes (CNC) e Emissor Nacional da NFS-e.
+- Cruzamentos fiscais, relatórios analíticos e preparação de dados para notificações.
+- Apoio ao acompanhamento de ações de autorregularização no DTE-SN.
+- Implantação, parametrização, atualização de leiautes, regras de cruzamento, suporte técnico e orientação aos servidores.
+
+O programa de computador está registrado perante o INPI, sob o Processo nº **BR512024005264-0**, com o título **Sistema de Controle e Análise Tributária do ISS**, constando Igor da Silva Espindola como titular e autor.
 :::
 
 ::: {.card}

@@ -162,7 +162,7 @@ Regularização, parcelamentos, credenciamento para emissão de notas, Carnê-Le
 ::: {.card}
 ### NFS-e, sistemas e automação
 
-Apoio em rotinas de nota fiscal de serviço, conferência de dados, integrações, cruzamentos fiscais e automações com Python para tarefas contábeis e tributárias.
+Apoio em rotinas de NFS-e Nacional, TRANSFARQ do Simples Nacional, ADN, CNC, Emissor Nacional, DTE-SN, conferência de dados, integrações, cruzamentos fiscais e automações com Python para tarefas contábeis e tributárias.
 :::
 
 ::: {.card}
