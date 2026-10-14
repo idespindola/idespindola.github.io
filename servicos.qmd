@@ -57,10 +57,6 @@ Organização, documentação e conformidade para evitar autuações e sustentar
 :::
 :::
 
-::: {.image-strip}
-![](imagens/parcerias/Parceria-CNO-2.png){fig-alt="Documentos necessários para regularização CNO/SERO"}
-![](imagens/parcerias/Parceria-CNO-3.png){fig-alt="Palavras-chave da regularização de obras"}
-:::
 
 ::: {.partnership-feature .reverse}
 ::: {.partnership-copy}
@@ -88,6 +84,28 @@ Você atua no Direito. Eu entrego a precisão dos números. A parceria técnica 
 ![](imagens/parcerias/Assistencia-Tecnica-Pericial.png){fig-alt="Assistência técnica pericial para advogados"}
 :::
 :::
+:::
+:::
+
+::: {.partnership-feature}
+::: {.partnership-copy}
+### Certificado digital online
+
+Emissão de certificado digital da empresa de forma rápida, prática e com atendimento por videoconferência direto pelo celular. Você entra em contato e agilizamos o processo com segurança, sem burocracia e sem precisar sair de casa.
+
+<ul class="tag-list">
+  <li>Atendimento online</li>
+  <li>Videoconferência</li>
+  <li>Rápido e seguro</li>
+  <li>Direto pelo celular</li>
+</ul>
+
+[Solicitar emissão](mailto:igorespindola91@gmail.com){.button .primary}
+[Chamar no Instagram](https://www.instagram.com/idespindola){.button .light}
+:::
+
+::: {.partnership-media}
+![](imagens/Certificado-Digital.png){fig-alt="Certificado digital com atendimento online por videoconferência"}
 :::
 :::
 
@@ -151,27 +169,6 @@ Organização de notas, conciliação bancária, fluxo de caixa, separação ent
 ## Regularização e proteção
 :::
 
-::: {.partnership-feature}
-::: {.partnership-copy}
-### Certificado digital online
-
-Emissão de certificado digital da empresa de forma rápida, prática e com atendimento por videoconferência direto pelo celular. Você entra em contato e agilizamos o processo com segurança, sem burocracia e sem precisar sair de casa.
-
-<ul class="tag-list">
-  <li>Atendimento online</li>
-  <li>Videoconferência</li>
-  <li>Rápido e seguro</li>
-  <li>Direto pelo celular</li>
-</ul>
-
-[Solicitar emissão](mailto:igorespindola91@gmail.com){.button .primary}
-[Chamar no Instagram](https://www.instagram.com/idespindola){.button .light}
-:::
-
-::: {.partnership-media}
-![](imagens/Certificado-Digital.png){fig-alt="Certificado digital com atendimento online por videoconferência"}
-:::
-:::
 
 ::: {.grid .two}
 ::: {.card}
@@ -200,6 +197,10 @@ Leitura técnica de documentos, valores, imóveis, obrigações e registros para
 :::
 :::
 :::
+
+
+
+
 
 ::: {.content-block .compact}
 ::: {.section-heading}
