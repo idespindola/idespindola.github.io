@@ -100,8 +100,7 @@ Emissão de certificado digital da empresa de forma rápida, prática e com aten
   <li>Direto pelo celular</li>
 </ul>
 
-[Solicitar emissão](mailto:igorespindola91@gmail.com){.button .primary}
-[Chamar no Instagram](https://www.instagram.com/idespindola){.button .light}
+[Solicitar emissão](https://www.instagram.com/idespindola){.button .primary}
 :::
 
 ::: {.partnership-media}
