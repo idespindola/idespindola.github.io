@@ -151,6 +151,28 @@ Organização de notas, conciliação bancária, fluxo de caixa, separação ent
 ## Regularização e proteção
 :::
 
+::: {.partnership-feature}
+::: {.partnership-copy}
+### Certificado digital online
+
+Emissão de certificado digital da empresa de forma rápida, prática e com atendimento por videoconferência direto pelo celular. Você entra em contato e agilizamos o processo com segurança, sem burocracia e sem precisar sair de casa.
+
+<ul class="tag-list">
+  <li>Atendimento online</li>
+  <li>Videoconferência</li>
+  <li>Rápido e seguro</li>
+  <li>Direto pelo celular</li>
+</ul>
+
+[Solicitar emissão](mailto:igorespindola91@gmail.com){.button .primary}
+[Chamar no Instagram](https://www.instagram.com/idespindola){.button .light}
+:::
+
+::: {.partnership-media}
+![](imagens/Certificado-Digital.png){fig-alt="Certificado digital com atendimento online por videoconferência"}
+:::
+:::
+
 ::: {.grid .two}
 ::: {.card}
 ### MEI, autônomos e pessoa física
@@ -189,3 +211,4 @@ Me conte o que você precisa organizar, provar, calcular ou regularizar. A parti
 [<i class="bi bi-envelope"></i> Email](mailto:igorespindola91@gmail.com){.button .primary}
 [<i class="bi bi-instagram"></i> Instagram](https://www.instagram.com/idespindola){.button .light}
 :::
+
