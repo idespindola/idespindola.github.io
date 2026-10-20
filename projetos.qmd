@@ -17,6 +17,8 @@ Projetos que nascem de problemas concretos: cruzar dados, reduzir retrabalho, ap
 ::: {.card}
 ### Sistema de Controle e Análise Tributária do ISS
 
+[<i class="bi bi-play-circle"></i> Assistir à apresentação](https://youtu.be/Mf6B1uL5oRg){.button .primary}
+
 Solução concebida para uso da Administração Tributária Municipal, reunindo em ambiente integrado funcionalidades de tratamento de dados do Simples Nacional, padrão nacional da NFS-e, bases econômico-fiscais e outros conjuntos de dados legitimamente disponibilizados ao Município.
 
 - Tratamento de arquivos disponibilizados pelo TRANSFARQ do Simples Nacional.
