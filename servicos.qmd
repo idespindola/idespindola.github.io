@@ -8,7 +8,7 @@ format: html
 
 # Soluções técnicas em tributação, perícia e regularização
 
-Atendimento para empresas, advogados, contadores e pessoas físicas que precisam de análise clara, documentação bem organizada e decisões baseadas em evidências. Pela IDESPINDOLA SISTEMAS, uno contabilidade, tributação, tecnologia e orientação objetiva.
+Atendimento para municípios, empresas, advogados, contadores e pessoas físicas que precisam de análise clara, documentação bem organizada e decisões baseadas em evidências. Pela IDESPINDOLA SISTEMAS, uno contabilidade, tributação, tecnologia e orientação objetiva.
 :::
 
 ::: {.band}
@@ -62,7 +62,17 @@ Organização, documentação e conformidade para evitar autuações e sustentar
 ::: {.partnership-copy}
 ### Assistência técnica pericial para advogados
 
-Você atua no Direito. Eu entrego a precisão dos números. A parceria técnica dá suporte independente para quesitos, pareceres e análises contábeis em demandas judiciais ou extrajudiciais.
+**Precisão nos cálculos. Segurança na sua atuação.** Apoio técnico contábil em demandas trabalhistas e cíveis, com atendimento online em todo o Brasil.
+
+- Liquidação de sentença: elaboração de cálculos judiciais.
+- Divergência nos cálculos apresentados: revisão e identificação de inconsistências.
+- Fundamentação de impugnações: preparação de parecer técnico contábil.
+- Ações coletivas com vários beneficiários: cálculos individualizados.
+- Negociação ou acordo judicial: cálculo de cenários para negociação.
+
+**Cálculos trabalhistas no PJe-Calc:** verbas rescisórias, diferenças salariais, horas extras, adicionais e reflexos.
+
+Também ofereço suporte técnico para:
 
 - Apuração de haveres em dissolução de sociedade.
 - Estudo técnico sobre divergência de valores ou participação societária.
@@ -76,12 +86,13 @@ Você atua no Direito. Eu entrego a precisão dos números. A parceria técnica 
   <li>Parecer técnico</li>
   <li>Quesitos contábeis</li>
   <li>Cálculo trabalhista</li>
+  <li>PJe-Calc</li>
   <li>Cenários de negociação</li>
 </ul>
 :::
 
 ::: {.partnership-media}
-![](imagens/parcerias/Assistencia-Tecnica-Pericial.png){fig-alt="Assistência técnica pericial para advogados"}
+![](imagens/parcerias/Assistencia-Tecnica-Pericial-2.png){fig-alt="Assistência técnica pericial para advogados: cálculos judiciais, revisão de cálculos e PJe-Calc"}
 :::
 :::
 :::
@@ -105,6 +116,30 @@ Emissão de certificado digital da empresa de forma rápida, prática e com aten
 
 ::: {.partnership-media}
 ![](imagens/Certificado-Digital.png){fig-alt="Certificado digital com atendimento online por videoconferência"}
+:::
+:::
+
+::: {.content-block}
+::: {.partnership-feature}
+::: {.partnership-copy}
+## Consultoria em reforma tributária para municípios
+
+**Sua gestão preparada para a transição tributária.** Conhecimento contábil e tecnologia para adequar a administração tributária municipal.
+
+- Diagnóstico de sistemas e rotinas fiscais para identificar por onde começar.
+- Revisão de cadastros e processos, com identificação de falhas e propostas de adequação.
+- Orientação para parametrização e validação de sistemas.
+- Apoio técnico e operacional à integração com a NFS-e Nacional.
+- Capacitação de servidores e acompanhamento da implementação.
+
+**Do diagnóstico à execução:** plano de ação, pareceres técnicos e acompanhamento das adequações.
+
+[<i class="bi bi-envelope"></i> Conversar sobre a consultoria](mailto:igorespindola91@gmail.com){.button .primary}
+:::
+
+::: {.partnership-media}
+![](imagens/parcerias/Consultoria-para-Municipios.png){fig-alt="Consultoria em reforma tributária para municípios: diagnóstico, sistemas, NFS-e Nacional e capacitação"}
+:::
 :::
 :::
 
